@@ -1,68 +1,5144 @@
 [
     {
-        "PubMed_ID": 40050950,
+        "PubMed_ID": 40060302,
         "NCT_IDs": [
-            "NCT06088706"
+            "NCT03270917"
         ]
     },
     {
-        "PubMed_ID": 40050941,
+        "PubMed_ID": 40055837,
         "NCT_IDs": [
-            "NCT02871856"
+            "NCT03876561"
         ]
     },
     {
-        "PubMed_ID": 40050870,
+        "PubMed_ID": 39846984,
         "NCT_IDs": [
-            "NCT05622630"
+            "NCT03331562"
         ]
     },
     {
-        "PubMed_ID": 40050836,
+        "PubMed_ID": 39834129,
         "NCT_IDs": [
-            "NCT02152891"
+            "NCT02795858"
         ]
     },
     {
-        "PubMed_ID": 40050814,
+        "PubMed_ID": 39833722,
         "NCT_IDs": [
-            "NCT03602105"
+            "NCT04241276"
         ]
     },
     {
-        "PubMed_ID": 40050333,
+        "PubMed_ID": 39798578,
         "NCT_IDs": [
-            "NCT06656871"
+            "NCT04246177"
         ]
     },
     {
-        "PubMed_ID": 40050061,
+        "PubMed_ID": 39788133,
         "NCT_IDs": [
-            "NCT06181279"
+            "NCT04805307"
         ]
     },
     {
-        "PubMed_ID": 40050056,
+        "PubMed_ID": 39760815,
         "NCT_IDs": [
-            "NCT05672186"
+            "NCT06278493"
         ]
     },
     {
-        "PubMed_ID": 40050054,
+        "PubMed_ID": 39751879,
         "NCT_IDs": [
-            "NCT06444919"
+            "NCT03973112"
         ]
     },
     {
-        "PubMed_ID": 40049924,
+        "PubMed_ID": 39739976,
         "NCT_IDs": [
-            "NCT3497676"
+            "NCT05329597"
         ]
     },
     {
-        "PubMed_ID": 40049196,
+        "PubMed_ID": 39737899,
         "NCT_IDs": [
-            "NCT02680587"
+            "NCT02744287"
+        ]
+    },
+    {
+        "PubMed_ID": 39729677,
+        "NCT_IDs": [
+            "NCT02534649"
+        ]
+    },
+    {
+        "PubMed_ID": 39707376,
+        "NCT_IDs": [
+            "NCT05451160"
+        ]
+    },
+    {
+        "PubMed_ID": 39673447,
+        "NCT_IDs": [
+            "NCT03086642"
+        ]
+    },
+    {
+        "PubMed_ID": 39651931,
+        "NCT_IDs": [
+            "NCT05199272"
+        ]
+    },
+    {
+        "PubMed_ID": 39648217,
+        "NCT_IDs": [
+            "NCT05262335"
+        ]
+    },
+    {
+        "PubMed_ID": 39602790,
+        "NCT_IDs": [
+            "NCT04375826"
+        ]
+    },
+    {
+        "PubMed_ID": 39586038,
+        "NCT_IDs": [
+            "NCT03217097"
+        ]
+    },
+    {
+        "PubMed_ID": 39532835,
+        "NCT_IDs": [
+            "NCT03250273"
+        ]
+    },
+    {
+        "PubMed_ID": 39499377,
+        "NCT_IDs": [
+            "NCT03393182"
+        ]
+    },
+    {
+        "PubMed_ID": 39485887,
+        "NCT_IDs": [
+            "NCT03340844"
+        ]
+    },
+    {
+        "PubMed_ID": 39462835,
+        "NCT_IDs": [
+            "NCT03822936"
+        ]
+    },
+    {
+        "PubMed_ID": 39441483,
+        "NCT_IDs": [
+            "NCT04098432"
+        ]
+    },
+    {
+        "PubMed_ID": 39436905,
+        "NCT_IDs": [
+            "NCT05374876"
+        ]
+    },
+    {
+        "PubMed_ID": 39425234,
+        "NCT_IDs": [
+            "NCT06414031"
+        ]
+    },
+    {
+        "PubMed_ID": 39384742,
+        "NCT_IDs": [
+            "NCT05213221"
+        ]
+    },
+    {
+        "PubMed_ID": 39378065,
+        "NCT_IDs": [
+            "NCT05034627"
+        ]
+    },
+    {
+        "PubMed_ID": 39374521,
+        "NCT_IDs": [
+            "NCT03595017",
+            "NCT02081378"
+        ]
+    },
+    {
+        "PubMed_ID": 39317507,
+        "NCT_IDs": [
+            "NCT05641233"
+        ]
+    },
+    {
+        "PubMed_ID": 39306468,
+        "NCT_IDs": [
+            "NCT02597348"
+        ]
+    },
+    {
+        "PubMed_ID": 39300376,
+        "NCT_IDs": [
+            "NCT05821556"
+        ]
+    },
+    {
+        "PubMed_ID": 39300077,
+        "NCT_IDs": [
+            "NCT05074589"
+        ]
+    },
+    {
+        "PubMed_ID": 39288676,
+        "NCT_IDs": [
+            "NCT02900677",
+            "NCT02900677"
+        ]
+    },
+    {
+        "PubMed_ID": 39282913,
+        "NCT_IDs": [
+            "NCT03375320"
+        ]
+    },
+    {
+        "PubMed_ID": 39282907,
+        "NCT_IDs": [
+            "NCT05546476"
+        ]
+    },
+    {
+        "PubMed_ID": 39261417,
+        "NCT_IDs": [
+            "NCT04482309"
+        ]
+    },
+    {
+        "PubMed_ID": 39237276,
+        "NCT_IDs": [
+            "NCT05562778",
+            "NCT05562778"
+        ]
+    },
+    {
+        "PubMed_ID": 39235596,
+        "NCT_IDs": [
+            "NCT03941873"
+        ]
+    },
+    {
+        "PubMed_ID": 39235326,
+        "NCT_IDs": [
+            "NCT02352337"
+        ]
+    },
+    {
+        "PubMed_ID": 39232761,
+        "NCT_IDs": [
+            "NCT04228601"
+        ]
+    },
+    {
+        "PubMed_ID": 39232496,
+        "NCT_IDs": [
+            "NCT06346392"
+        ]
+    },
+    {
+        "PubMed_ID": 39210194,
+        "NCT_IDs": [
+            "NCT06125769"
+        ]
+    },
+    {
+        "PubMed_ID": 39182137,
+        "NCT_IDs": [
+            "NCT06133023"
+        ]
+    },
+    {
+        "PubMed_ID": 39181325,
+        "NCT_IDs": [
+            "NCT04683315"
+        ]
+    },
+    {
+        "PubMed_ID": 39169298,
+        "NCT_IDs": [
+            "NCT06123169"
+        ]
+    },
+    {
+        "PubMed_ID": 39117670,
+        "NCT_IDs": [
+            "NCT03980925"
+        ]
+    },
+    {
+        "PubMed_ID": 39106081,
+        "NCT_IDs": [
+            "NCT03611556"
+        ]
+    },
+    {
+        "PubMed_ID": 39102622,
+        "NCT_IDs": [
+            "NCT03599765"
+        ]
+    },
+    {
+        "PubMed_ID": 39095759,
+        "NCT_IDs": [
+            "NCT02635971"
+        ]
+    },
+    {
+        "PubMed_ID": 39094734,
+        "NCT_IDs": [
+            "NCT03213665",
+            "NCT05639751"
+        ]
+    },
+    {
+        "PubMed_ID": 39088774,
+        "NCT_IDs": [
+            "NCT03504423"
+        ]
+    },
+    {
+        "PubMed_ID": 39085487,
+        "NCT_IDs": [
+            "NCT03157128"
+        ]
+    },
+    {
+        "PubMed_ID": 39075587,
+        "NCT_IDs": [
+            "NCT06018883"
+        ]
+    },
+    {
+        "PubMed_ID": 39029483,
+        "NCT_IDs": [
+            "NCT03323489"
+        ]
+    },
+    {
+        "PubMed_ID": 39028670,
+        "NCT_IDs": [
+            "NCT05476978"
+        ]
+    },
+    {
+        "PubMed_ID": 39008208,
+        "NCT_IDs": [
+            "NCT02839343"
+        ]
+    },
+    {
+        "PubMed_ID": 38990195,
+        "NCT_IDs": [
+            "NCT03636308"
+        ]
+    },
+    {
+        "PubMed_ID": 38960798,
+        "NCT_IDs": [
+            "NCT03851614"
+        ]
+    },
+    {
+        "PubMed_ID": 38915151,
+        "NCT_IDs": [
+            "NCT02948309"
+        ]
+    },
+    {
+        "PubMed_ID": 38907886,
+        "NCT_IDs": [
+            "NCT04311047",
+            "NCT04311047"
+        ]
+    },
+    {
+        "PubMed_ID": 38902836,
+        "NCT_IDs": [
+            "NCT04875325"
+        ]
+    },
+    {
+        "PubMed_ID": 38900452,
+        "NCT_IDs": [
+            "NCT02047474"
+        ]
+    },
+    {
+        "PubMed_ID": 38896229,
+        "NCT_IDs": [
+            "NCT02118545"
+        ]
+    },
+    {
+        "PubMed_ID": 38886159,
+        "NCT_IDs": [
+            "NCT03211988"
+        ]
+    },
+    {
+        "PubMed_ID": 38875119,
+        "NCT_IDs": [
+            "NCT04066491"
+        ]
+    },
+    {
+        "PubMed_ID": 38844468,
+        "NCT_IDs": [
+            "NCT05493995"
+        ]
+    },
+    {
+        "PubMed_ID": 38838501,
+        "NCT_IDs": [
+            "NCT02866383"
+        ]
+    },
+    {
+        "PubMed_ID": 38835083,
+        "NCT_IDs": [
+            "NCT05044065"
+        ]
+    },
+    {
+        "PubMed_ID": 38815694,
+        "NCT_IDs": [
+            "NCT03648632"
+        ]
+    },
+    {
+        "PubMed_ID": 38773189,
+        "NCT_IDs": [
+            "NCT00834704",
+            "NCT01170897",
+            "NCT01453153"
+        ]
+    },
+    {
+        "PubMed_ID": 38713205,
+        "NCT_IDs": [
+            "NCT04169672"
+        ]
+    },
+    {
+        "PubMed_ID": 38697156,
+        "NCT_IDs": [
+            "NCT03875235"
+        ]
+    },
+    {
+        "PubMed_ID": 38662232,
+        "NCT_IDs": [
+            "NCT06199752"
+        ]
+    },
+    {
+        "PubMed_ID": 38650037,
+        "NCT_IDs": [
+            "NCT04401800"
+        ]
+    },
+    {
+        "PubMed_ID": 38580363,
+        "NCT_IDs": [
+            "NCT04549662",
+            "NCT04549662"
+        ]
+    },
+    {
+        "PubMed_ID": 38569703,
+        "NCT_IDs": [
+            "NCT05523778"
+        ]
+    },
+    {
+        "PubMed_ID": 38553594,
+        "NCT_IDs": [
+            "NCT04062058"
+        ]
+    },
+    {
+        "PubMed_ID": 38513683,
+        "NCT_IDs": [
+            "NCT02791503"
+        ]
+    },
+    {
+        "PubMed_ID": 38500292,
+        "NCT_IDs": [
+            "NCT05546476",
+            "NCT05546476"
+        ]
+    },
+    {
+        "PubMed_ID": 38494526,
+        "NCT_IDs": [
+            "NCT03105921"
+        ]
+    },
+    {
+        "PubMed_ID": 38456660,
+        "NCT_IDs": [
+            "NCT02079740"
+        ]
+    },
+    {
+        "PubMed_ID": 38445914,
+        "NCT_IDs": [
+            "NCT02562716"
+        ]
+    },
+    {
+        "PubMed_ID": 38441850,
+        "NCT_IDs": [
+            "NCT02908451"
+        ]
+    },
+    {
+        "PubMed_ID": 38422585,
+        "NCT_IDs": [
+            "NCT04953962"
+        ]
+    },
+    {
+        "PubMed_ID": 38413420,
+        "NCT_IDs": [
+            "NCT03113955",
+            "NCT03113955"
+        ]
+    },
+    {
+        "PubMed_ID": 38393723,
+        "NCT_IDs": [
+            "NCT03401788"
+        ]
+    },
+    {
+        "PubMed_ID": 38353966,
+        "NCT_IDs": [
+            "NCT03513705"
+        ]
+    },
+    {
+        "PubMed_ID": 38320723,
+        "NCT_IDs": [
+            "NCT03762590"
+        ]
+    },
+    {
+        "PubMed_ID": 38320486,
+        "NCT_IDs": [
+            "NCT02504333"
+        ]
+    },
+    {
+        "PubMed_ID": 38237373,
+        "NCT_IDs": [
+            "NCT04169672"
+        ]
+    },
+    {
+        "PubMed_ID": 38218979,
+        "NCT_IDs": [
+            "NCT03364400"
+        ]
+    },
+    {
+        "PubMed_ID": 38206830,
+        "NCT_IDs": [
+            "NCT02231762"
+        ]
+    },
+    {
+        "PubMed_ID": 38200410,
+        "NCT_IDs": [
+            "NCT05669092"
+        ]
+    },
+    {
+        "PubMed_ID": 38155512,
+        "NCT_IDs": [
+            "NCT04423731"
+        ]
+    },
+    {
+        "PubMed_ID": 38135187,
+        "NCT_IDs": [
+            "NCT03621644"
+        ]
+    },
+    {
+        "PubMed_ID": 38093381,
+        "NCT_IDs": [
+            "NCT05549856"
+        ]
+    },
+    {
+        "PubMed_ID": 38050737,
+        "NCT_IDs": [
+            "NCT05306028"
+        ]
+    },
+    {
+        "PubMed_ID": 38039992,
+        "NCT_IDs": [
+            "NCT03340974",
+            "NCT04698915"
+        ]
+    },
+    {
+        "PubMed_ID": 38011131,
+        "NCT_IDs": [
+            "NCT05262855",
+            "NCT05262855"
+        ]
+    },
+    {
+        "PubMed_ID": 37965767,
+        "NCT_IDs": [
+            "NCT03138213"
+        ]
+    },
+    {
+        "PubMed_ID": 37927936,
+        "NCT_IDs": [
+            "NCT02926183"
+        ]
+    },
+    {
+        "PubMed_ID": 37919668,
+        "NCT_IDs": [
+            "NCT02599324"
+        ]
+    },
+    {
+        "PubMed_ID": 37907221,
+        "NCT_IDs": [
+            "NCT02452268"
+        ]
+    },
+    {
+        "PubMed_ID": 37903909,
+        "NCT_IDs": [
+            "NCT02854072"
+        ]
+    },
+    {
+        "PubMed_ID": 37863080,
+        "NCT_IDs": [
+            "NCT04202965"
+        ]
+    },
+    {
+        "PubMed_ID": 37857710,
+        "NCT_IDs": [
+            "NCT02763033"
+        ]
+    },
+    {
+        "PubMed_ID": 37854684,
+        "NCT_IDs": [
+            "NCT04075305"
+        ]
+    },
+    {
+        "PubMed_ID": 37848297,
+        "NCT_IDs": [
+            "NCT05055323"
+        ]
+    },
+    {
+        "PubMed_ID": 37813745,
+        "NCT_IDs": [
+            "NCT03013335"
+        ]
+    },
+    {
+        "PubMed_ID": 37794220,
+        "NCT_IDs": [
+            "NCT00440167",
+            "NCT01729481",
+            "NCT01728818"
+        ]
+    },
+    {
+        "PubMed_ID": 37787643,
+        "NCT_IDs": [
+            "NCT04095195"
+        ]
+    },
+    {
+        "PubMed_ID": 37775472,
+        "NCT_IDs": [
+            "NCT05457101"
+        ]
+    },
+    {
+        "PubMed_ID": 37752423,
+        "NCT_IDs": [
+            "NCT04427787"
+        ]
+    },
+    {
+        "PubMed_ID": 37751561,
+        "NCT_IDs": [
+            "NCT04579380"
+        ]
+    },
+    {
+        "PubMed_ID": 37741968,
+        "NCT_IDs": [
+            "NCT04852367"
+        ]
+    },
+    {
+        "PubMed_ID": 37736793,
+        "NCT_IDs": [
+            "NCT02834611"
+        ]
+    },
+    {
+        "PubMed_ID": 37735634,
+        "NCT_IDs": [
+            "NCT05083247"
+        ]
+    },
+    {
+        "PubMed_ID": 37717786,
+        "NCT_IDs": [
+            "NCT03885284"
+        ]
+    },
+    {
+        "PubMed_ID": 37702588,
+        "NCT_IDs": [
+            "NCT01010126"
+        ]
+    },
+    {
+        "PubMed_ID": 37686537,
+        "NCT_IDs": [
+            "NCT01900327"
+        ]
+    },
+    {
+        "PubMed_ID": 37684697,
+        "NCT_IDs": [
+            "NCT04951804"
+        ]
+    },
+    {
+        "PubMed_ID": 37652677,
+        "NCT_IDs": [
+            "NCT03166436"
+        ]
+    },
+    {
+        "PubMed_ID": 37647576,
+        "NCT_IDs": [
+            "NCT02395016"
+        ]
+    },
+    {
+        "PubMed_ID": 37620294,
+        "NCT_IDs": [
+            "NCT03075280"
+        ]
+    },
+    {
+        "PubMed_ID": 37550634,
+        "NCT_IDs": [
+            "NCT04927780"
+        ]
+    },
+    {
+        "PubMed_ID": 37549753,
+        "NCT_IDs": [
+            "NCT03870386"
+        ]
+    },
+    {
+        "PubMed_ID": 37481515,
+        "NCT_IDs": [
+            "NCT05103020",
+            "NCT05103020"
+        ]
+    },
+    {
+        "PubMed_ID": 37379764,
+        "NCT_IDs": [
+            "NCT03637491",
+            "NCT03637491"
+        ]
+    },
+    {
+        "PubMed_ID": 37366919,
+        "NCT_IDs": [
+            "NCT01729481"
+        ]
+    },
+    {
+        "PubMed_ID": 37341164,
+        "NCT_IDs": [
+            "NCT03504423"
+        ]
+    },
+    {
+        "PubMed_ID": 37339979,
+        "NCT_IDs": [
+            "NCT02451982"
+        ]
+    },
+    {
+        "PubMed_ID": 37328835,
+        "NCT_IDs": [
+            "NCT05841420"
+        ]
+    },
+    {
+        "PubMed_ID": 37268519,
+        "NCT_IDs": [
+            "NCT02581215"
+        ]
+    },
+    {
+        "PubMed_ID": 37268503,
+        "NCT_IDs": [
+            "NCT0578431"
+        ]
+    },
+    {
+        "PubMed_ID": 37265412,
+        "NCT_IDs": [
+            "NCT03157128"
+        ]
+    },
+    {
+        "PubMed_ID": 37256623,
+        "NCT_IDs": [
+            "NCT03611309"
+        ]
+    },
+    {
+        "PubMed_ID": 37226252,
+        "NCT_IDs": [
+            "NCT05451901"
+        ]
+    },
+    {
+        "PubMed_ID": 37221181,
+        "NCT_IDs": [
+            "NCT03095274"
+        ]
+    },
+    {
+        "PubMed_ID": 37188895,
+        "NCT_IDs": [
+            "NCT02358395"
+        ]
+    },
+    {
+        "PubMed_ID": 37132281,
+        "NCT_IDs": [
+            "NCT02427841"
+        ]
+    },
+    {
+        "PubMed_ID": 37119523,
+        "NCT_IDs": [
+            "NCT02999672"
+        ]
+    },
+    {
+        "PubMed_ID": 37098399,
+        "NCT_IDs": [
+            "NCT04975620"
+        ]
+    },
+    {
+        "PubMed_ID": 37094988,
+        "NCT_IDs": [
+            "NCT02636036"
+        ]
+    },
+    {
+        "PubMed_ID": 37076142,
+        "NCT_IDs": [
+            "NCT05331118"
+        ]
+    },
+    {
+        "PubMed_ID": 37074571,
+        "NCT_IDs": [
+            "NCT02549937"
+        ]
+    },
+    {
+        "PubMed_ID": 37060055,
+        "NCT_IDs": [
+            "NCT04881032"
+        ]
+    },
+    {
+        "PubMed_ID": 37052821,
+        "NCT_IDs": [
+            "NCT03977272"
+        ]
+    },
+    {
+        "PubMed_ID": 37052133,
+        "NCT_IDs": [
+            "NCT01597232"
+        ]
+    },
+    {
+        "PubMed_ID": 37051129,
+        "NCT_IDs": [
+            "NCT04438447"
+        ]
+    },
+    {
+        "PubMed_ID": 37026453,
+        "NCT_IDs": [
+            "NCT03187951"
+        ]
+    },
+    {
+        "PubMed_ID": 37022483,
+        "NCT_IDs": [
+            "NCT03837132"
+        ]
+    },
+    {
+        "PubMed_ID": 37016126,
+        "NCT_IDs": [
+            "NCT02503774"
+        ]
+    },
+    {
+        "PubMed_ID": 37010988,
+        "NCT_IDs": [
+            "NCT02631733"
+        ]
+    },
+    {
+        "PubMed_ID": 36991390,
+        "NCT_IDs": [
+            "NCT03476681"
+        ]
+    },
+    {
+        "PubMed_ID": 36970055,
+        "NCT_IDs": [
+            "NCT02501902"
+        ]
+    },
+    {
+        "PubMed_ID": 36963200,
+        "NCT_IDs": [
+            "NCT04233866"
+        ]
+    },
+    {
+        "PubMed_ID": 36951834,
+        "NCT_IDs": [
+            "NCT03524508"
+        ]
+    },
+    {
+        "PubMed_ID": 36949155,
+        "NCT_IDs": [
+            "NCT02081378"
+        ]
+    },
+    {
+        "PubMed_ID": 36940261,
+        "NCT_IDs": [
+            "NCT03193190",
+            "NCT03281369"
+        ]
+    },
+    {
+        "PubMed_ID": 36899292,
+        "NCT_IDs": [
+            "NCT04747990"
+        ]
+    },
+    {
+        "PubMed_ID": 36854604,
+        "NCT_IDs": [
+            "NCT04183712"
+        ]
+    },
+    {
+        "PubMed_ID": 36813867,
+        "NCT_IDs": [
+            "NCT03529175"
+        ]
+    },
+    {
+        "PubMed_ID": 36800443,
+        "NCT_IDs": [
+            "NCT04042480"
+        ]
+    },
+    {
+        "PubMed_ID": 36765432,
+        "NCT_IDs": [
+            "NCT05162846"
+        ]
+    },
+    {
+        "PubMed_ID": 36757445,
+        "NCT_IDs": [
+            "NCT04174781"
+        ]
+    },
+    {
+        "PubMed_ID": 36749873,
+        "NCT_IDs": [
+            "NCT01821729",
+            "NCT01591733"
+        ]
+    },
+    {
+        "PubMed_ID": 36738333,
+        "NCT_IDs": [
+            "NCT03449030",
+            "NCT03449030"
+        ]
+    },
+    {
+        "PubMed_ID": 36701651,
+        "NCT_IDs": [
+            "NCT04084366"
+        ]
+    },
+    {
+        "PubMed_ID": 36670495,
+        "NCT_IDs": [
+            "NCT05025826"
+        ]
+    },
+    {
+        "PubMed_ID": 36657324,
+        "NCT_IDs": [
+            "NCT01077427"
+        ]
+    },
+    {
+        "PubMed_ID": 36640790,
+        "NCT_IDs": [
+            "NCT03852693"
+        ]
+    },
+    {
+        "PubMed_ID": 36634920,
+        "NCT_IDs": [
+            "NCT05061017"
+        ]
+    },
+    {
+        "PubMed_ID": 36606571,
+        "NCT_IDs": [
+            "NCT04607720"
+        ]
+    },
+    {
+        "PubMed_ID": 36604127,
+        "NCT_IDs": [
+            "NCT04000906"
+        ]
+    },
+    {
+        "PubMed_ID": 36602796,
+        "NCT_IDs": [
+            "NCT01834235"
+        ]
+    },
+    {
+        "PubMed_ID": 36593070,
+        "NCT_IDs": [
+            "NCT02562898"
+        ]
+    },
+    {
+        "PubMed_ID": 36592507,
+        "NCT_IDs": [
+            "NCT04258150"
+        ]
+    },
+    {
+        "PubMed_ID": 36581914,
+        "NCT_IDs": [
+            "NCT05265663"
+        ]
+    },
+    {
+        "PubMed_ID": 36550428,
+        "NCT_IDs": [
+            "NCT04954820"
+        ]
+    },
+    {
+        "PubMed_ID": 36509113,
+        "NCT_IDs": [
+            "NCT04924725"
+        ]
+    },
+    {
+        "PubMed_ID": 36463226,
+        "NCT_IDs": [
+            "NCT01845805"
+        ]
+    },
+    {
+        "PubMed_ID": 36459673,
+        "NCT_IDs": [
+            "NCT03604692"
+        ]
+    },
+    {
+        "PubMed_ID": 36427020,
+        "NCT_IDs": [
+            "NCT02608229"
+        ]
+    },
+    {
+        "PubMed_ID": 36424360,
+        "NCT_IDs": [
+            "NCT01130142",
+            "NCT01064622"
+        ]
+    },
+    {
+        "PubMed_ID": 36346366,
+        "NCT_IDs": [
+            "NCT03454035"
+        ]
+    },
+    {
+        "PubMed_ID": 36307892,
+        "NCT_IDs": [
+            "NCT04881487"
+        ]
+    },
+    {
+        "PubMed_ID": 36307845,
+        "NCT_IDs": [
+            "NCT05141513",
+            "NCT05141513"
+        ]
+    },
+    {
+        "PubMed_ID": 36280870,
+        "NCT_IDs": [
+            "NCT03710265"
+        ]
+    },
+    {
+        "PubMed_ID": 36264382,
+        "NCT_IDs": [
+            "NCT02893930"
+        ]
+    },
+    {
+        "PubMed_ID": 36260828,
+        "NCT_IDs": [
+            "NCT01824875"
+        ]
+    },
+    {
+        "PubMed_ID": 36260786,
+        "NCT_IDs": [
+            "NCT05174169"
+        ]
+    },
+    {
+        "PubMed_ID": 36221952,
+        "NCT_IDs": [
+            "NCT01897454"
+        ]
+    },
+    {
+        "PubMed_ID": 36209981,
+        "NCT_IDs": [
+            "NCT02047513"
+        ]
+    },
+    {
+        "PubMed_ID": 36163561,
+        "NCT_IDs": [
+            "NCT02671357"
+        ]
+    },
+    {
+        "PubMed_ID": 36155490,
+        "NCT_IDs": [
+            "NCT03186898"
+        ]
+    },
+    {
+        "PubMed_ID": 36136274,
+        "NCT_IDs": [
+            "NCT02730104",
+            "NCT02730104"
+        ]
+    },
+    {
+        "PubMed_ID": 36096534,
+        "NCT_IDs": [
+            "NCT03601611"
+        ]
+    },
+    {
+        "PubMed_ID": 36087395,
+        "NCT_IDs": [
+            "NCT02288377"
+        ]
+    },
+    {
+        "PubMed_ID": 36056179,
+        "NCT_IDs": [
+            "NCT03207724"
+        ]
+    },
+    {
+        "PubMed_ID": 36052613,
+        "NCT_IDs": [
+            "NCT04707560"
+        ]
+    },
+    {
+        "PubMed_ID": 36048453,
+        "NCT_IDs": [
+            "NCT01526135"
+        ]
+    },
+    {
+        "PubMed_ID": 36038164,
+        "NCT_IDs": [
+            "NCT04603586"
+        ]
+    },
+    {
+        "PubMed_ID": 36028483,
+        "NCT_IDs": [
+            "NCT02879318"
+        ]
+    },
+    {
+        "PubMed_ID": 35999521,
+        "NCT_IDs": [
+            "NCT03875690",
+            "NCT03875690"
+        ]
+    },
+    {
+        "PubMed_ID": 35978604,
+        "NCT_IDs": [
+            "NCT01217034",
+            "NCT01217034"
+        ]
+    },
+    {
+        "PubMed_ID": 35970013,
+        "NCT_IDs": [
+            "NCT02125136",
+            "NCT02125136"
+        ]
+    },
+    {
+        "PubMed_ID": 35964683,
+        "NCT_IDs": [
+            "NCT03578445"
+        ]
+    },
+    {
+        "PubMed_ID": 35941566,
+        "NCT_IDs": [
+            "NCT02461836"
+        ]
+    },
+    {
+        "PubMed_ID": 38319896,
+        "NCT_IDs": [
+            "NCT03875235"
+        ]
+    },
+    {
+        "PubMed_ID": 35902798,
+        "NCT_IDs": [
+            "NCT04062058"
+        ]
+    },
+    {
+        "PubMed_ID": 35892341,
+        "NCT_IDs": [
+            "NCT04165772"
+        ]
+    },
+    {
+        "PubMed_ID": 35834226,
+        "NCT_IDs": [
+            "NCT02839343"
+        ]
+    },
+    {
+        "PubMed_ID": 35810751,
+        "NCT_IDs": [
+            "NCT03404960"
+        ]
+    },
+    {
+        "PubMed_ID": 35810555,
+        "NCT_IDs": [
+            "NCT03340935",
+            "NCT03340935",
+            "NCT03340935",
+            "NCT03340935"
+        ]
+    },
+    {
+        "PubMed_ID": 35786739,
+        "NCT_IDs": [
+            "NCT03984734"
+        ]
+    },
+    {
+        "PubMed_ID": 35697547,
+        "NCT_IDs": [
+            "NCT03245346"
+        ]
+    },
+    {
+        "PubMed_ID": 35691448,
+        "NCT_IDs": [
+            "NCT03599765"
+        ]
+    },
+    {
+        "PubMed_ID": 35662283,
+        "NCT_IDs": [
+            "NCT03214250"
+        ]
+    },
+    {
+        "PubMed_ID": 35657463,
+        "NCT_IDs": [
+            "NCT01648023"
+        ]
+    },
+    {
+        "PubMed_ID": 35647938,
+        "NCT_IDs": [
+            "NCT03033927"
+        ]
+    },
+    {
+        "PubMed_ID": 35635640,
+        "NCT_IDs": [
+            "NCT02506517"
+        ]
+    },
+    {
+        "PubMed_ID": 35596182,
+        "NCT_IDs": [
+            "NCT02184195"
+        ]
+    },
+    {
+        "PubMed_ID": 35535581,
+        "NCT_IDs": [
+            "NCT04896073"
+        ]
+    },
+    {
+        "PubMed_ID": 35512742,
+        "NCT_IDs": [
+            "NCT03273374"
+        ]
+    },
+    {
+        "PubMed_ID": 35499204,
+        "NCT_IDs": [
+            "NCT03512756"
+        ]
+    },
+    {
+        "PubMed_ID": 35489301,
+        "NCT_IDs": [
+            "NCT02589821",
+            "NCT02588170"
+        ]
+    },
+    {
+        "PubMed_ID": 35476508,
+        "NCT_IDs": [
+            "NCT02866383"
+        ]
+    },
+    {
+        "PubMed_ID": 35470199,
+        "NCT_IDs": [
+            "NCT04299451"
+        ]
+    },
+    {
+        "PubMed_ID": 35467243,
+        "NCT_IDs": [
+            "NCT03082209"
+        ]
+    },
+    {
+        "PubMed_ID": 35425930,
+        "NCT_IDs": [
+            "NCT04631445"
+        ]
+    },
+    {
+        "PubMed_ID": 35395220,
+        "NCT_IDs": [
+            "NCT05030376"
+        ]
+    },
+    {
+        "PubMed_ID": 35395021,
+        "NCT_IDs": [
+            "NCT04683068"
+        ]
+    },
+    {
+        "PubMed_ID": 35393247,
+        "NCT_IDs": [
+            "NCT02303977"
+        ]
+    },
+    {
+        "PubMed_ID": 35389428,
+        "NCT_IDs": [
+            "NCT03074513"
+        ]
+    },
+    {
+        "PubMed_ID": 35379633,
+        "NCT_IDs": [
+            "NCT03785743"
+        ]
+    },
+    {
+        "PubMed_ID": 35350100,
+        "NCT_IDs": [
+            "NCT03574051"
+        ]
+    },
+    {
+        "PubMed_ID": 35344750,
+        "NCT_IDs": [
+            "NCT02589821",
+            "NCT02589821",
+            "NCT02588170",
+            "NCT02588170"
+        ]
+    },
+    {
+        "PubMed_ID": 35338084,
+        "NCT_IDs": [
+            "NCT02045602"
+        ]
+    },
+    {
+        "PubMed_ID": 35332036,
+        "NCT_IDs": [
+            "NCT03323489"
+        ]
+    },
+    {
+        "PubMed_ID": 35302585,
+        "NCT_IDs": [
+            "NCT02880371"
+        ]
+    },
+    {
+        "PubMed_ID": 35285484,
+        "NCT_IDs": [
+            "NCT00601627"
+        ]
+    },
+    {
+        "PubMed_ID": 35264216,
+        "NCT_IDs": [
+            "NCT03270917"
+        ]
+    },
+    {
+        "PubMed_ID": 35257800,
+        "NCT_IDs": [
+            "NCT02356406"
+        ]
+    },
+    {
+        "PubMed_ID": 35209871,
+        "NCT_IDs": [
+            "NCT05064618"
+        ]
+    },
+    {
+        "PubMed_ID": 35193933,
+        "NCT_IDs": [
+            "NCT02426892"
+        ]
+    },
+    {
+        "PubMed_ID": 35179586,
+        "NCT_IDs": [
+            "NCT02873195"
+        ]
+    },
+    {
+        "PubMed_ID": 35176457,
+        "NCT_IDs": [
+            "NCT02393248"
+        ]
+    },
+    {
+        "PubMed_ID": 35165764,
+        "NCT_IDs": [
+            "NCT03352531",
+            "NCT04172506"
+        ]
+    },
+    {
+        "PubMed_ID": 35150356,
+        "NCT_IDs": [
+            "NCT03225105"
+        ]
+    },
+    {
+        "PubMed_ID": 35149591,
+        "NCT_IDs": [
+            "NCT02045589"
+        ]
+    },
+    {
+        "PubMed_ID": 35122060,
+        "NCT_IDs": [
+            "NCT03104439"
+        ]
+    },
+    {
+        "PubMed_ID": 35101942,
+        "NCT_IDs": [
+            "NCT02576509",
+            "NCT02989922"
+        ]
+    },
+    {
+        "PubMed_ID": 35078490,
+        "NCT_IDs": [
+            "NCT05114213"
+        ]
+    },
+    {
+        "PubMed_ID": 35046056,
+        "NCT_IDs": [
+            "NCT02635672"
+        ]
+    },
+    {
+        "PubMed_ID": 35033226,
+        "NCT_IDs": [
+            "NCT02888743"
+        ]
+    },
+    {
+        "PubMed_ID": 34991520,
+        "NCT_IDs": [
+            "NCT04548960"
+        ]
+    },
+    {
+        "PubMed_ID": 34984540,
+        "NCT_IDs": [
+            "NCT03312842"
+        ]
+    },
+    {
+        "PubMed_ID": 34980020,
+        "NCT_IDs": [
+            "NCT04481204"
+        ]
+    },
+    {
+        "PubMed_ID": 34961558,
+        "NCT_IDs": [
+            "NCT04400357"
+        ]
+    },
+    {
+        "PubMed_ID": 34921230,
+        "NCT_IDs": [
+            "NCT01867892"
+        ]
+    },
+    {
+        "PubMed_ID": 34902530,
+        "NCT_IDs": [
+            "NCT03434379"
+        ]
+    },
+    {
+        "PubMed_ID": 34859313,
+        "NCT_IDs": [
+            "NCT03264092"
+        ]
+    },
+    {
+        "PubMed_ID": 34818478,
+        "NCT_IDs": [
+            "NCT03401788"
+        ]
+    },
+    {
+        "PubMed_ID": 34794396,
+        "NCT_IDs": [
+            "NCT04617457"
+        ]
+    },
+    {
+        "PubMed_ID": 34793719,
+        "NCT_IDs": [
+            "NCT03013218"
+        ]
+    },
+    {
+        "PubMed_ID": 34750990,
+        "NCT_IDs": [
+            "NCT02551991"
+        ]
+    },
+    {
+        "PubMed_ID": 34641806,
+        "NCT_IDs": [
+            "NCT03273374"
+        ]
+    },
+    {
+        "PubMed_ID": 34624250,
+        "NCT_IDs": [
+            "NCT04384926"
+        ]
+    },
+    {
+        "PubMed_ID": 34530885,
+        "NCT_IDs": [
+            "NCT04600063"
+        ]
+    },
+    {
+        "PubMed_ID": 34529000,
+        "NCT_IDs": [
+            "NCT01042379"
+        ]
+    },
+    {
+        "PubMed_ID": 34477122,
+        "NCT_IDs": [
+            "NCT02928081"
+        ]
+    },
+    {
+        "PubMed_ID": 34463630,
+        "NCT_IDs": [
+            "NCT04109495",
+            "NCT04109495"
+        ]
+    },
+    {
+        "PubMed_ID": 34419125,
+        "NCT_IDs": [
+            "NCT03133273"
+        ]
+    },
+    {
+        "PubMed_ID": 34405577,
+        "NCT_IDs": [
+            "NCT02716207"
+        ]
+    },
+    {
+        "PubMed_ID": 34380662,
+        "NCT_IDs": [
+            "NCT03091478"
+        ]
+    },
+    {
+        "PubMed_ID": 37635813,
+        "NCT_IDs": [
+            "NCT03673423"
+        ]
+    },
+    {
+        "PubMed_ID": 34325726,
+        "NCT_IDs": [
+            "NCT03198546",
+            "NCT03198546",
+            "NCT03198546"
+        ]
+    },
+    {
+        "PubMed_ID": 34256279,
+        "NCT_IDs": [
+            "NCT01677559"
+        ]
+    },
+    {
+        "PubMed_ID": 34233640,
+        "NCT_IDs": [
+            "NCT03899636",
+            "NCT03899649"
+        ]
+    },
+    {
+        "PubMed_ID": 34190375,
+        "NCT_IDs": [
+            "NCT02402062"
+        ]
+    },
+    {
+        "PubMed_ID": 34188166,
+        "NCT_IDs": [
+            "NCT03307148"
+        ]
+    },
+    {
+        "PubMed_ID": 34143971,
+        "NCT_IDs": [
+            "NCT03794440"
+        ]
+    },
+    {
+        "PubMed_ID": 34131821,
+        "NCT_IDs": [
+            "NCT02863471"
+        ]
+    },
+    {
+        "PubMed_ID": 34116031,
+        "NCT_IDs": [
+            "NCT03322592"
+        ]
+    },
+    {
+        "PubMed_ID": 34098895,
+        "NCT_IDs": [
+            "NCT02720666"
+        ]
+    },
+    {
+        "PubMed_ID": 34051880,
+        "NCT_IDs": [
+            "NCT03434379"
+        ]
+    },
+    {
+        "PubMed_ID": 34002944,
+        "NCT_IDs": [
+            "NCT01128296",
+            "NCT01978184"
+        ]
+    },
+    {
+        "PubMed_ID": 33994125,
+        "NCT_IDs": [
+            "NCT04325425"
+        ]
+    },
+    {
+        "PubMed_ID": 33971141,
+        "NCT_IDs": [
+            "NCT02329860"
+        ]
+    },
+    {
+        "PubMed_ID": 33945297,
+        "NCT_IDs": [
+            "NCT02678780"
+        ]
+    },
+    {
+        "PubMed_ID": 33926539,
+        "NCT_IDs": [
+            "NCT03690323"
+        ]
+    },
+    {
+        "PubMed_ID": 33915091,
+        "NCT_IDs": [
+            "NCT03138213"
+        ]
+    },
+    {
+        "PubMed_ID": 33893738,
+        "NCT_IDs": [
+            "NCT03460938"
+        ]
+    },
+    {
+        "PubMed_ID": 33881579,
+        "NCT_IDs": [
+            "NCT03447691"
+        ]
+    },
+    {
+        "PubMed_ID": 33857789,
+        "NCT_IDs": [
+            "NCT02048865"
+        ]
+    },
+    {
+        "PubMed_ID": 33827537,
+        "NCT_IDs": [
+            "NCT03466593"
+        ]
+    },
+    {
+        "PubMed_ID": 33813673,
+        "NCT_IDs": [
+            "NCT01964430"
+        ]
+    },
+    {
+        "PubMed_ID": 33812334,
+        "NCT_IDs": [
+            "NCT02043730"
+        ]
+    },
+    {
+        "PubMed_ID": 33771853,
+        "NCT_IDs": [
+            "NCT03098160"
+        ]
+    },
+    {
+        "PubMed_ID": 33768697,
+        "NCT_IDs": [
+            "NCT03083938"
+        ]
+    },
+    {
+        "PubMed_ID": 33741442,
+        "NCT_IDs": [
+            "NCT01631552"
+        ]
+    },
+    {
+        "PubMed_ID": 33688022,
+        "NCT_IDs": [
+            "NCT02734160"
+        ]
+    },
+    {
+        "PubMed_ID": 33664081,
+        "NCT_IDs": [
+            "NCT03269994"
+        ]
+    },
+    {
+        "PubMed_ID": 33656542,
+        "NCT_IDs": [
+            "NCT02871804"
+        ]
+    },
+    {
+        "PubMed_ID": 33630475,
+        "NCT_IDs": [
+            "NCT01836432"
+        ]
+    },
+    {
+        "PubMed_ID": 33605677,
+        "NCT_IDs": [
+            "NCT03962478"
+        ]
+    },
+    {
+        "PubMed_ID": 33593311,
+        "NCT_IDs": [
+            "NCT04090463"
+        ]
+    },
+    {
+        "PubMed_ID": 33592831,
+        "NCT_IDs": [
+            "NCT03331055"
+        ]
+    },
+    {
+        "PubMed_ID": 33588150,
+        "NCT_IDs": [
+            "NCT01728818"
+        ]
+    },
+    {
+        "PubMed_ID": 33539945,
+        "NCT_IDs": [
+            "NCT02436668"
+        ]
+    },
+    {
+        "PubMed_ID": 33531690,
+        "NCT_IDs": [
+            "NCT01140347",
+            "NCT02435433"
+        ]
+    },
+    {
+        "PubMed_ID": 33478521,
+        "NCT_IDs": [
+            "NCT01839487"
+        ]
+    },
+    {
+        "PubMed_ID": 33475684,
+        "NCT_IDs": [
+            "NCT02562716"
+        ]
+    },
+    {
+        "PubMed_ID": 33435909,
+        "NCT_IDs": [
+            "NCT04135781"
+        ]
+    },
+    {
+        "PubMed_ID": 33411058,
+        "NCT_IDs": [
+            "NCT00428597",
+            "NCT01525550"
+        ]
+    },
+    {
+        "PubMed_ID": 33372414,
+        "NCT_IDs": [
+            "NCT02155621"
+        ]
+    },
+    {
+        "PubMed_ID": 33345430,
+        "NCT_IDs": [
+            "NCT00844649"
+        ]
+    },
+    {
+        "PubMed_ID": 33293311,
+        "NCT_IDs": [
+            "NCT03342716"
+        ]
+    },
+    {
+        "PubMed_ID": 33278792,
+        "NCT_IDs": [
+            "NCT02702986",
+            "NCT02973217"
+        ]
+    },
+    {
+        "PubMed_ID": 33253318,
+        "NCT_IDs": [
+            "NCT01977066"
+        ]
+    },
+    {
+        "PubMed_ID": 33229456,
+        "NCT_IDs": [
+            "NCT02791334"
+        ]
+    },
+    {
+        "PubMed_ID": 33214082,
+        "NCT_IDs": [
+            "NCT01494506"
+        ]
+    },
+    {
+        "PubMed_ID": 33198671,
+        "NCT_IDs": [
+            "NCT02579616"
+        ]
+    },
+    {
+        "PubMed_ID": 33191450,
+        "NCT_IDs": [
+            "NCT03636308"
+        ]
+    },
+    {
+        "PubMed_ID": 33184632,
+        "NCT_IDs": [
+            "NCT02663544"
+        ]
+    },
+    {
+        "PubMed_ID": 33154057,
+        "NCT_IDs": [
+            "NCT04289792"
+        ]
+    },
+    {
+        "PubMed_ID": 33099898,
+        "NCT_IDs": [
+            "NCT02697058"
+        ]
+    },
+    {
+        "PubMed_ID": 33093457,
+        "NCT_IDs": [
+            "NCT03180437"
+        ]
+    },
+    {
+        "PubMed_ID": 33046621,
+        "NCT_IDs": [
+            "NCT02713529"
+        ]
+    },
+    {
+        "PubMed_ID": 33004046,
+        "NCT_IDs": [
+            "NCT04194268"
+        ]
+    },
+    {
+        "PubMed_ID": 32966811,
+        "NCT_IDs": [
+            "NCT02588170"
+        ]
+    },
+    {
+        "PubMed_ID": 32966810,
+        "NCT_IDs": [
+            "NCT02589821"
+        ]
+    },
+    {
+        "PubMed_ID": 32920242,
+        "NCT_IDs": [
+            "NCT04239573"
+        ]
+    },
+    {
+        "PubMed_ID": 32917288,
+        "NCT_IDs": [
+            "NCT02948309"
+        ]
+    },
+    {
+        "PubMed_ID": 32910338,
+        "NCT_IDs": [
+            "NCT02009449"
+        ]
+    },
+    {
+        "PubMed_ID": 32889867,
+        "NCT_IDs": [
+            "NCT00355862",
+            "NCT00355862"
+        ]
+    },
+    {
+        "PubMed_ID": 32843493,
+        "NCT_IDs": [
+            "NCT02850536"
+        ]
+    },
+    {
+        "PubMed_ID": 32830200,
+        "NCT_IDs": [
+            "NCT00440167"
+        ]
+    },
+    {
+        "PubMed_ID": 32817068,
+        "NCT_IDs": [
+            "NCT01140347",
+            "NCT02435433",
+            "NCT02435433"
+        ]
+    },
+    {
+        "PubMed_ID": 32778095,
+        "NCT_IDs": [
+            "NCT04169841"
+        ]
+    },
+    {
+        "PubMed_ID": 32740235,
+        "NCT_IDs": [
+            "NCT02562716"
+        ]
+    },
+    {
+        "PubMed_ID": 32716114,
+        "NCT_IDs": [
+            "NCT02029157"
+        ]
+    },
+    {
+        "PubMed_ID": 32690499,
+        "NCT_IDs": [
+            "NCT03387592"
+        ]
+    },
+    {
+        "PubMed_ID": 32681477,
+        "NCT_IDs": [
+            "NCT03484299"
+        ]
+    },
+    {
+        "PubMed_ID": 32676853,
+        "NCT_IDs": [
+            "NCT02121626"
+        ]
+    },
+    {
+        "PubMed_ID": 32672806,
+        "NCT_IDs": [
+            "NCT02282722"
+        ]
+    },
+    {
+        "PubMed_ID": 32667635,
+        "NCT_IDs": [
+            "NCT02594956"
+        ]
+    },
+    {
+        "PubMed_ID": 32663379,
+        "NCT_IDs": [
+            "NCT02555878"
+        ]
+    },
+    {
+        "PubMed_ID": 32652307,
+        "NCT_IDs": [
+            "NCT04085055"
+        ]
+    },
+    {
+        "PubMed_ID": 32631655,
+        "NCT_IDs": [
+            "NCT03080974"
+        ]
+    },
+    {
+        "PubMed_ID": 32590747,
+        "NCT_IDs": [
+            "NCT02307500"
+        ]
+    },
+    {
+        "PubMed_ID": 32586937,
+        "NCT_IDs": [
+            "NCT02301130"
+        ]
+    },
+    {
+        "PubMed_ID": 32526235,
+        "NCT_IDs": [
+            "NCT03672032"
+        ]
+    },
+    {
+        "PubMed_ID": 32523090,
+        "NCT_IDs": [
+            "NCT01618136"
+        ]
+    },
+    {
+        "PubMed_ID": 32504550,
+        "NCT_IDs": [
+            "NCT02349867",
+            "NCT02349867"
+        ]
+    },
+    {
+        "PubMed_ID": 32487210,
+        "NCT_IDs": [
+            "NCT03742752"
+        ]
+    },
+    {
+        "PubMed_ID": 32469386,
+        "NCT_IDs": [
+            "NCT01928290"
+        ]
+    },
+    {
+        "PubMed_ID": 32461347,
+        "NCT_IDs": [
+            "NCT03833661",
+            "NCT04066491",
+            "NCT02699515"
+        ]
+    },
+    {
+        "PubMed_ID": 32451495,
+        "NCT_IDs": [
+            "NCT02826486"
+        ]
+    },
+    {
+        "PubMed_ID": 32433914,
+        "NCT_IDs": [
+            "NCT03622229"
+        ]
+    },
+    {
+        "PubMed_ID": 32433600,
+        "NCT_IDs": [
+            "NCT02749136"
+        ]
+    },
+    {
+        "PubMed_ID": 32416764,
+        "NCT_IDs": [
+            "NCT03384238"
+        ]
+    },
+    {
+        "PubMed_ID": 32404096,
+        "NCT_IDs": [
+            "NCT03958019"
+        ]
+    },
+    {
+        "PubMed_ID": 32393479,
+        "NCT_IDs": [
+            "NCT01956162"
+        ]
+    },
+    {
+        "PubMed_ID": 32380454,
+        "NCT_IDs": [
+            "NCT01124786",
+            "NCT00844649",
+            "NCT00290966",
+            "NCT00678535",
+            "NCT00699374",
+            "NCT00272051",
+            "NCT00305188",
+            "NCT00384176"
+        ]
+    },
+    {
+        "PubMed_ID": 32377978,
+        "NCT_IDs": [
+            "NCT02171221"
+        ]
+    },
+    {
+        "PubMed_ID": 32361265,
+        "NCT_IDs": [
+            "NCT01621243"
+        ]
+    },
+    {
+        "PubMed_ID": 32350413,
+        "NCT_IDs": [
+            "NCT03529175"
+        ]
+    },
+    {
+        "PubMed_ID": 32324927,
+        "NCT_IDs": [
+            "NCT02699515"
+        ]
+    },
+    {
+        "PubMed_ID": 32320048,
+        "NCT_IDs": [
+            "NCT02054806"
+        ]
+    },
+    {
+        "PubMed_ID": 32299515,
+        "NCT_IDs": [
+            "NCT03513705"
+        ]
+    },
+    {
+        "PubMed_ID": 32293352,
+        "NCT_IDs": [
+            "NCT03724994"
+        ]
+    },
+    {
+        "PubMed_ID": 32228512,
+        "NCT_IDs": [
+            "NCT03807999"
+        ]
+    },
+    {
+        "PubMed_ID": 32213013,
+        "NCT_IDs": [
+            "NCT02909530"
+        ]
+    },
+    {
+        "PubMed_ID": 32147669,
+        "NCT_IDs": [
+            "NCT02039336"
+        ]
+    },
+    {
+        "PubMed_ID": 32114502,
+        "NCT_IDs": [
+            "NCT02362048"
+        ]
+    },
+    {
+        "PubMed_ID": 32084409,
+        "NCT_IDs": [
+            "NCT02894944"
+        ]
+    },
+    {
+        "PubMed_ID": 32063605,
+        "NCT_IDs": [
+            "NCT02261714"
+        ]
+    },
+    {
+        "PubMed_ID": 31980466,
+        "NCT_IDs": [
+            "NCT02628067"
+        ]
+    },
+    {
+        "PubMed_ID": 31977567,
+        "NCT_IDs": [
+            "NCT00353496"
+        ]
+    },
+    {
+        "PubMed_ID": 31912800,
+        "NCT_IDs": [
+            "NCT02399137"
+        ]
+    },
+    {
+        "PubMed_ID": 31857726,
+        "NCT_IDs": [
+            "NCT01088815"
+        ]
+    },
+    {
+        "PubMed_ID": 31856081,
+        "NCT_IDs": [
+            "NCT01494506"
+        ]
+    },
+    {
+        "PubMed_ID": 31831564,
+        "NCT_IDs": [
+            "NCT02178436"
+        ]
+    },
+    {
+        "PubMed_ID": 31818843,
+        "NCT_IDs": [
+            "NCT03398291"
+        ]
+    },
+    {
+        "PubMed_ID": 31801872,
+        "NCT_IDs": [
+            "NCT01217034"
+        ]
+    },
+    {
+        "PubMed_ID": 31789476,
+        "NCT_IDs": [
+            "NCT01494506"
+        ]
+    },
+    {
+        "PubMed_ID": 31765987,
+        "NCT_IDs": [
+            "NCT03443492"
+        ]
+    },
+    {
+        "PubMed_ID": 31760314,
+        "NCT_IDs": [
+            "NCT02195180"
+        ]
+    },
+    {
+        "PubMed_ID": 31759036,
+        "NCT_IDs": [
+            "NCT03606148"
+        ]
+    },
+    {
+        "PubMed_ID": 31756383,
+        "NCT_IDs": [
+            "NCT03707431"
+        ]
+    },
+    {
+        "PubMed_ID": 31720835,
+        "NCT_IDs": [
+            "NCT01761266"
+        ]
+    },
+    {
+        "PubMed_ID": 31640628,
+        "NCT_IDs": [
+            "NCT01827553"
+        ]
+    },
+    {
+        "PubMed_ID": 31626819,
+        "NCT_IDs": [
+            "NCT01884948"
+        ]
+    },
+    {
+        "PubMed_ID": 31588660,
+        "NCT_IDs": [
+            "NCT01864135"
+        ]
+    },
+    {
+        "PubMed_ID": 31567325,
+        "NCT_IDs": [
+            "NCT01524276"
+        ]
+    },
+    {
+        "PubMed_ID": 31567180,
+        "NCT_IDs": [
+            "NCT03738787"
+        ]
+    },
+    {
+        "PubMed_ID": 31564556,
+        "NCT_IDs": [
+            "NCT03590275"
+        ]
+    },
+    {
+        "PubMed_ID": 31562758,
+        "NCT_IDs": [
+            "NCT02184195"
+        ]
+    },
+    {
+        "PubMed_ID": 31521134,
+        "NCT_IDs": [
+            "NCT03822936"
+        ]
+    },
+    {
+        "PubMed_ID": 31520730,
+        "NCT_IDs": [
+            "NCT02127021"
+        ]
+    },
+    {
+        "PubMed_ID": 31513018,
+        "NCT_IDs": [
+            "NCT01959672"
+        ]
+    },
+    {
+        "PubMed_ID": 31498183,
+        "NCT_IDs": [
+            "NCT02803814"
+        ]
+    },
+    {
+        "PubMed_ID": 31492766,
+        "NCT_IDs": [
+            "NCT02284139"
+        ]
+    },
+    {
+        "PubMed_ID": 31483448,
+        "NCT_IDs": [
+            "NCT00058201"
+        ]
+    },
+    {
+        "PubMed_ID": 31455681,
+        "NCT_IDs": [
+            "NCT02476123"
+        ]
+    },
+    {
+        "PubMed_ID": 31399139,
+        "NCT_IDs": [
+            "NCT03331718"
+        ]
+    },
+    {
+        "PubMed_ID": 31392541,
+        "NCT_IDs": [
+            "NCT02337569",
+            "NCT02321865"
+        ]
+    },
+    {
+        "PubMed_ID": 31347292,
+        "NCT_IDs": [
+            "NCT01647828"
+        ]
+    },
+    {
+        "PubMed_ID": 31285591,
+        "NCT_IDs": [
+            "NCT01836653"
+        ]
+    },
+    {
+        "PubMed_ID": 31276674,
+        "NCT_IDs": [
+            "NCT02238847"
+        ]
+    },
+    {
+        "PubMed_ID": 31249394,
+        "NCT_IDs": [
+            "NCT01761266"
+        ]
+    },
+    {
+        "PubMed_ID": 31242873,
+        "NCT_IDs": [
+            "NCT03307148"
+        ]
+    },
+    {
+        "PubMed_ID": 31176752,
+        "NCT_IDs": [
+            "NCT01658878",
+            "NCT01658878"
+        ]
+    },
+    {
+        "PubMed_ID": 31145418,
+        "NCT_IDs": [
+            "NCT01821729"
+        ]
+    },
+    {
+        "PubMed_ID": 31120501,
+        "NCT_IDs": [
+            "NCT01506973"
+        ]
+    },
+    {
+        "PubMed_ID": 31068222,
+        "NCT_IDs": [
+            "NCT02028806",
+            "NCT02028806"
+        ]
+    },
+    {
+        "PubMed_ID": 31042578,
+        "NCT_IDs": [
+            "NCT02332863"
+        ]
+    },
+    {
+        "PubMed_ID": 31003961,
+        "NCT_IDs": [
+            "NCT02510495"
+        ]
+    },
+    {
+        "PubMed_ID": 30954352,
+        "NCT_IDs": [
+            "NCT02741167"
+        ]
+    },
+    {
+        "PubMed_ID": 30917842,
+        "NCT_IDs": [
+            "NCT03777462"
+        ]
+    },
+    {
+        "PubMed_ID": 30911657,
+        "NCT_IDs": [
+            "NCT03304210"
+        ]
+    },
+    {
+        "PubMed_ID": 30899530,
+        "NCT_IDs": [
+            "NCT00078897"
+        ]
+    },
+    {
+        "PubMed_ID": 30896569,
+        "NCT_IDs": [
+            "NCT03366038"
+        ]
+    },
+    {
+        "PubMed_ID": 30887178,
+        "NCT_IDs": [
+            "NCT01373164"
+        ]
+    },
+    {
+        "PubMed_ID": 30880163,
+        "NCT_IDs": [
+            "NCT01101815"
+        ]
+    },
+    {
+        "PubMed_ID": 30845939,
+        "NCT_IDs": [
+            "NCT03273374"
+        ]
+    },
+    {
+        "PubMed_ID": 30842038,
+        "NCT_IDs": [
+            "NCT01494506"
+        ]
+    },
+    {
+        "PubMed_ID": 30834940,
+        "NCT_IDs": [
+            "NCT01121562"
+        ]
+    },
+    {
+        "PubMed_ID": 30825970,
+        "NCT_IDs": [
+            "NCT01068327"
+        ]
+    },
+    {
+        "PubMed_ID": 30824408,
+        "NCT_IDs": [
+            "NCT03217097"
+        ]
+    },
+    {
+        "PubMed_ID": 30768369,
+        "NCT_IDs": [
+            "NCT02993731"
+        ]
+    },
+    {
+        "PubMed_ID": 30717707,
+        "NCT_IDs": [
+            "NCT02024009"
+        ]
+    },
+    {
+        "PubMed_ID": 30665869,
+        "NCT_IDs": [
+            "NCT01140347",
+            "NCT02435433"
+        ]
+    },
+    {
+        "PubMed_ID": 30654298,
+        "NCT_IDs": [
+            "NCT01494506"
+        ]
+    },
+    {
+        "PubMed_ID": 30635165,
+        "NCT_IDs": [
+            "NCT01908478"
+        ]
+    },
+    {
+        "PubMed_ID": 30594153,
+        "NCT_IDs": [
+            "NCT02047513",
+            "NCT02047513"
+        ]
+    },
+    {
+        "PubMed_ID": 30590606,
+        "NCT_IDs": [
+            "NCT02502370"
+        ]
+    },
+    {
+        "PubMed_ID": 30575490,
+        "NCT_IDs": [
+            "NCT01526135"
+        ]
+    },
+    {
+        "PubMed_ID": 30557521,
+        "NCT_IDs": [
+            "NCT02054806"
+        ]
+    },
+    {
+        "PubMed_ID": 30507039,
+        "NCT_IDs": [
+            "NCT00915863"
+        ]
+    },
+    {
+        "PubMed_ID": 30506283,
+        "NCT_IDs": [
+            "NCT02754297"
+        ]
+    },
+    {
+        "PubMed_ID": 30471456,
+        "NCT_IDs": [
+            "NCT02979509"
+        ]
+    },
+    {
+        "PubMed_ID": 30465184,
+        "NCT_IDs": [
+            "NCT01124786",
+            "NCT00844649"
+        ]
+    },
+    {
+        "PubMed_ID": 30458340,
+        "NCT_IDs": [
+            "NCT01494506"
+        ]
+    },
+    {
+        "PubMed_ID": 30409152,
+        "NCT_IDs": [
+            "NCT03317886"
+        ]
+    },
+    {
+        "PubMed_ID": 30367877,
+        "NCT_IDs": [
+            "NCT02167074"
+        ]
+    },
+    {
+        "PubMed_ID": 30326968,
+        "NCT_IDs": [
+            "NCT02818829"
+        ]
+    },
+    {
+        "PubMed_ID": 30291013,
+        "NCT_IDs": [
+            "NCT02465515"
+        ]
+    },
+    {
+        "PubMed_ID": 30261853,
+        "NCT_IDs": [
+            "NCT03411200"
+        ]
+    },
+    {
+        "PubMed_ID": 30236511,
+        "NCT_IDs": [
+            "NCT01436227"
+        ]
+    },
+    {
+        "PubMed_ID": 30222972,
+        "NCT_IDs": [
+            "NCT01770132"
+        ]
+    },
+    {
+        "PubMed_ID": 30217513,
+        "NCT_IDs": [
+            "NCT01615653"
+        ]
+    },
+    {
+        "PubMed_ID": 30149366,
+        "NCT_IDs": [
+            "NCT01730222"
+        ]
+    },
+    {
+        "PubMed_ID": 30120957,
+        "NCT_IDs": [
+            "NCT03152487"
+        ]
+    },
+    {
+        "PubMed_ID": 30108162,
+        "NCT_IDs": [
+            "NCT00692770"
+        ]
+    },
+    {
+        "PubMed_ID": 30093143,
+        "NCT_IDs": [
+            "NCT01023594"
+        ]
+    },
+    {
+        "PubMed_ID": 30063383,
+        "NCT_IDs": [
+            "NCT01898741"
+        ]
+    },
+    {
+        "PubMed_ID": 30041614,
+        "NCT_IDs": [
+            "NCT02959879"
+        ]
+    },
+    {
+        "PubMed_ID": 30021548,
+        "NCT_IDs": [
+            "NCT02812992"
+        ]
+    },
+    {
+        "PubMed_ID": 30003350,
+        "NCT_IDs": [
+            "NCT02145013"
+        ]
+    },
+    {
+        "PubMed_ID": 29997287,
+        "NCT_IDs": [
+            "NCT00836407",
+            "NCT02243371"
+        ]
+    },
+    {
+        "PubMed_ID": 29929491,
+        "NCT_IDs": [
+            "NCT01128296",
+            "NCT01978184"
+        ]
+    },
+    {
+        "PubMed_ID": 29898902,
+        "NCT_IDs": [
+            "NCT01179048"
+        ]
+    },
+    {
+        "PubMed_ID": 29856121,
+        "NCT_IDs": [
+            "NCT00844649",
+            "NCT01124786",
+            "NCT00574275",
+            "NCT00574275"
+        ]
+    },
+    {
+        "PubMed_ID": 29843755,
+        "NCT_IDs": [
+            "NCT00769483"
+        ]
+    },
+    {
+        "PubMed_ID": 29800971,
+        "NCT_IDs": [
+            "NCT01591733"
+        ]
+    },
+    {
+        "PubMed_ID": 29794066,
+        "NCT_IDs": [
+            "NCT01567488"
+        ]
+    },
+    {
+        "PubMed_ID": 29756206,
+        "NCT_IDs": [
+            "NCT01016483"
+        ]
+    },
+    {
+        "PubMed_ID": 29735994,
+        "NCT_IDs": [
+            "NCT02576665"
+        ]
+    },
+    {
+        "PubMed_ID": 29682715,
+        "NCT_IDs": [
+            "NCT02830633"
+        ]
+    },
+    {
+        "PubMed_ID": 29653120,
+        "NCT_IDs": [
+            "NCT02102984"
+        ]
+    },
+    {
+        "PubMed_ID": 29625879,
+        "NCT_IDs": [
+            "NCT01755767"
+        ]
+    },
+    {
+        "PubMed_ID": 29605722,
+        "NCT_IDs": [
+            "NCT01421836"
+        ]
+    },
+    {
+        "PubMed_ID": 29574126,
+        "NCT_IDs": [
+            "NCT03054987"
+        ]
+    },
+    {
+        "PubMed_ID": 29549862,
+        "NCT_IDs": [
+            "NCT0172948"
+        ]
+    },
+    {
+        "PubMed_ID": 29535060,
+        "NCT_IDs": [
+            "NCT02424838"
+        ]
+    },
+    {
+        "PubMed_ID": 29515114,
+        "NCT_IDs": [
+            "NCT00935987"
+        ]
+    },
+    {
+        "PubMed_ID": 29508247,
+        "NCT_IDs": [
+            "NCT02117479",
+            "NCT02119663"
+        ]
+    },
+    {
+        "PubMed_ID": 29439668,
+        "NCT_IDs": [
+            "NCT02614534"
+        ]
+    },
+    {
+        "PubMed_ID": 29374667,
+        "NCT_IDs": [
+            "NCT02681796"
+        ]
+    },
+    {
+        "PubMed_ID": 29366960,
+        "NCT_IDs": [
+            "NCT00574275"
+        ]
+    },
+    {
+        "PubMed_ID": 29361134,
+        "NCT_IDs": [
+            "NCT02112357"
+        ]
+    },
+    {
+        "PubMed_ID": 29338080,
+        "NCT_IDs": [
+            "NCT01585805"
+        ]
+    },
+    {
+        "PubMed_ID": 29331343,
+        "NCT_IDs": [
+            "NCT02001779"
+        ]
+    },
+    {
+        "PubMed_ID": 29305893,
+        "NCT_IDs": [
+            "NCT02910960"
+        ]
+    },
+    {
+        "PubMed_ID": 29301477,
+        "NCT_IDs": [
+            "NCT02360839"
+        ]
+    },
+    {
+        "PubMed_ID": 29273007,
+        "NCT_IDs": [
+            "NCT02135822"
+        ]
+    },
+    {
+        "PubMed_ID": 29258812,
+        "NCT_IDs": [
+            "NCT02820857"
+        ]
+    },
+    {
+        "PubMed_ID": 29238851,
+        "NCT_IDs": [
+            "NCT00372437"
+        ]
+    },
+    {
+        "PubMed_ID": 29223478,
+        "NCT_IDs": [
+            "NCT01585805",
+            "NCT02184195"
+        ]
+    },
+    {
+        "PubMed_ID": 29192743,
+        "NCT_IDs": [
+            "NCT02456051"
+        ]
+    },
+    {
+        "PubMed_ID": 29162142,
+        "NCT_IDs": [
+            "NCT02439593"
+        ]
+    },
+    {
+        "PubMed_ID": 29161241,
+        "NCT_IDs": [
+            "NCT00056693",
+            "NCT00428597"
+        ]
+    },
+    {
+        "PubMed_ID": 29121415,
+        "NCT_IDs": [
+            "NCT01943864"
+        ]
+    },
+    {
+        "PubMed_ID": 29119276,
+        "NCT_IDs": [
+            "NCT02331251"
+        ]
+    },
+    {
+        "PubMed_ID": 29103084,
+        "NCT_IDs": [
+            "NCT02270554"
+        ]
+    },
+    {
+        "PubMed_ID": 29053185,
+        "NCT_IDs": [
+            "NCT00003216"
+        ]
+    },
+    {
+        "PubMed_ID": 28961832,
+        "NCT_IDs": [
+            "NCT00561990"
+        ]
+    },
+    {
+        "PubMed_ID": 28954285,
+        "NCT_IDs": [
+            "NCT01239381"
+        ]
+    },
+    {
+        "PubMed_ID": 28953554,
+        "NCT_IDs": [
+            "NCT00918853"
+        ]
+    },
+    {
+        "PubMed_ID": 28950290,
+        "NCT_IDs": [
+            "NCT00917384",
+            "NCT01170663",
+            "NCT01168973",
+            "NCT01183780",
+            "NCT01140347",
+            "NCT00703326"
+        ]
+    },
+    {
+        "PubMed_ID": 28931010,
+        "NCT_IDs": [
+            "NCT00112658"
+        ]
+    },
+    {
+        "PubMed_ID": 28910237,
+        "NCT_IDs": [
+            "NCT01144338"
+        ]
+    },
+    {
+        "PubMed_ID": 28895142,
+        "NCT_IDs": [
+            "NCT02081131"
+        ]
+    },
+    {
+        "PubMed_ID": 28851316,
+        "NCT_IDs": [
+            "NCT02653313"
+        ]
+    },
+    {
+        "PubMed_ID": 28841916,
+        "NCT_IDs": [
+            "NCT02919787"
+        ]
+    },
+    {
+        "PubMed_ID": 28838379,
+        "NCT_IDs": [
+            "NCT02783599",
+            "NCT03086369",
+            "NCT02677116"
+        ]
+    },
+    {
+        "PubMed_ID": 28802565,
+        "NCT_IDs": [
+            "NCT01475331"
+        ]
+    },
+    {
+        "PubMed_ID": 28774338,
+        "NCT_IDs": [
+            "NCT00398086"
+        ]
+    },
+    {
+        "PubMed_ID": 28750659,
+        "NCT_IDs": [
+            "NCT02839343"
+        ]
+    },
+    {
+        "PubMed_ID": 28733257,
+        "NCT_IDs": [
+            "NCT02327065"
+        ]
+    },
+    {
+        "PubMed_ID": 28723307,
+        "NCT_IDs": [
+            "NCT02070146"
+        ]
+    },
+    {
+        "PubMed_ID": 28710747,
+        "NCT_IDs": [
+            "NCT01935843"
+        ]
+    },
+    {
+        "PubMed_ID": 28527133,
+        "NCT_IDs": [
+            "NCT02202785"
+        ]
+    },
+    {
+        "PubMed_ID": 28388966,
+        "NCT_IDs": [
+            "NCT01410968"
+        ]
+    },
+    {
+        "PubMed_ID": 28376316,
+        "NCT_IDs": [
+            "NCT00312013"
+        ]
+    },
+    {
+        "PubMed_ID": 28330462,
+        "NCT_IDs": [
+            "NCT02449538",
+            "NCT02449538"
+        ]
+    },
+    {
+        "PubMed_ID": 28292641,
+        "NCT_IDs": [
+            "NCT02288377"
+        ]
+    },
+    {
+        "PubMed_ID": 28222309,
+        "NCT_IDs": [
+            "NCT01303029"
+        ]
+    },
+    {
+        "PubMed_ID": 28210843,
+        "NCT_IDs": [
+            "NCT00498225"
+        ]
+    },
+    {
+        "PubMed_ID": 28202004,
+        "NCT_IDs": [
+            "NCT00839332"
+        ]
+    },
+    {
+        "PubMed_ID": 28179342,
+        "NCT_IDs": [
+            "NCT02506803"
+        ]
+    },
+    {
+        "PubMed_ID": 28099502,
+        "NCT_IDs": [
+            "NCT01547260"
+        ]
+    },
+    {
+        "PubMed_ID": 28069017,
+        "NCT_IDs": [
+            "NCT02716207"
+        ]
+    },
+    {
+        "PubMed_ID": 28025154,
+        "NCT_IDs": [
+            "NCT01386931"
+        ]
+    },
+    {
+        "PubMed_ID": 27978579,
+        "NCT_IDs": [
+            "NCT01658943"
+        ]
+    },
+    {
+        "PubMed_ID": 27974691,
+        "NCT_IDs": [
+            "NCT02822053"
+        ]
+    },
+    {
+        "PubMed_ID": 27924459,
+        "NCT_IDs": [
+            "NCT00428597"
+        ]
+    },
+    {
+        "PubMed_ID": 27909037,
+        "NCT_IDs": [
+            "NCT02704143"
+        ]
+    },
+    {
+        "PubMed_ID": 27891190,
+        "NCT_IDs": [
+            "NCT02079363"
+        ]
+    },
+    {
+        "PubMed_ID": 27879993,
+        "NCT_IDs": [
+            "NCT01495117"
+        ]
+    },
+    {
+        "PubMed_ID": 27864713,
+        "NCT_IDs": [
+            "NCT01869894"
+        ]
+    },
+    {
+        "PubMed_ID": 27861546,
+        "NCT_IDs": [
+            "NCT02670265"
+        ]
+    },
+    {
+        "PubMed_ID": 27836885,
+        "NCT_IDs": [
+            "NCT00428597"
+        ]
+    },
+    {
+        "PubMed_ID": 27836513,
+        "NCT_IDs": [
+            "NCT00421538"
+        ]
+    },
+    {
+        "PubMed_ID": 27821313,
+        "NCT_IDs": [
+            "NCT01996540"
+        ]
+    },
+    {
+        "PubMed_ID": 27793850,
+        "NCT_IDs": [
+            "NCT01335958"
+        ]
+    },
+    {
+        "PubMed_ID": 27784046,
+        "NCT_IDs": [
+            "NCT01550406"
+        ]
+    },
+    {
+        "PubMed_ID": 27769210,
+        "NCT_IDs": [
+            "NCT00844649"
+        ]
+    },
+    {
+        "PubMed_ID": 27756258,
+        "NCT_IDs": [
+            "NCT02528526"
+        ]
+    },
+    {
+        "PubMed_ID": 27704266,
+        "NCT_IDs": [
+            "NCT00946153"
+        ]
+    },
+    {
+        "PubMed_ID": 27618657,
+        "NCT_IDs": [
+            "NCT01587534"
+        ]
+    },
+    {
+        "PubMed_ID": 27599039,
+        "NCT_IDs": [
+            "NCT01303172"
+        ]
+    },
+    {
+        "PubMed_ID": 27576181,
+        "NCT_IDs": [
+            "NCT01563133"
+        ]
+    },
+    {
+        "PubMed_ID": 27520560,
+        "NCT_IDs": [
+            "NCT01116791"
+        ]
+    },
+    {
+        "PubMed_ID": 27457707,
+        "NCT_IDs": [
+            "NCT01447732"
+        ]
+    },
+    {
+        "PubMed_ID": 27404453,
+        "NCT_IDs": [
+            "NCT01730222"
+        ]
+    },
+    {
+        "PubMed_ID": 27275632,
+        "NCT_IDs": [
+            "NCT01821612"
+        ]
+    },
+    {
+        "PubMed_ID": 27139057,
+        "NCT_IDs": [
+            "NCT00634725"
+        ]
+    },
+    {
+        "PubMed_ID": 27109456,
+        "NCT_IDs": [
+            "NCT01789502"
+        ]
+    },
+    {
+        "PubMed_ID": 27090728,
+        "NCT_IDs": [
+            "NCT02424279"
+        ]
+    },
+    {
+        "PubMed_ID": 27085323,
+        "NCT_IDs": [
+            "NCT00844649"
+        ]
+    },
+    {
+        "PubMed_ID": 27071386,
+        "NCT_IDs": [
+            "NCT02327065"
+        ]
+    },
+    {
+        "PubMed_ID": 27055731,
+        "NCT_IDs": [
+            "NCT01413022"
+        ]
+    },
+    {
+        "PubMed_ID": 27040594,
+        "NCT_IDs": [
+            "NCT01023594"
+        ]
+    },
+    {
+        "PubMed_ID": 27039845,
+        "NCT_IDs": [
+            "NCT01280058"
+        ]
+    },
+    {
+        "PubMed_ID": 26972022,
+        "NCT_IDs": [
+            "NCT01038713"
+        ]
+    },
+    {
+        "PubMed_ID": 26851029,
+        "NCT_IDs": [
+            "NCT01658436"
+        ]
+    },
+    {
+        "PubMed_ID": 26844278,
+        "NCT_IDs": [
+            "NCT00985777"
+        ]
+    },
+    {
+        "PubMed_ID": 26808546,
+        "NCT_IDs": [
+            "NCT00040183"
+        ]
+    },
+    {
+        "PubMed_ID": 26802153,
+        "NCT_IDs": [
+            "NCT00844649"
+        ]
+    },
+    {
+        "PubMed_ID": 26772812,
+        "NCT_IDs": [
+            "NCT00690300"
+        ]
+    },
+    {
+        "PubMed_ID": 26747224,
+        "NCT_IDs": [
+            "NCT01607307"
+        ]
+    },
+    {
+        "PubMed_ID": 26715573,
+        "NCT_IDs": [
+            "NCT00551096"
+        ]
+    },
+    {
+        "PubMed_ID": 26655559,
+        "NCT_IDs": [
+            "NCT00844649"
+        ]
+    },
+    {
+        "PubMed_ID": 26630143,
+        "NCT_IDs": [
+            "NCT01147250"
+        ]
+    },
+    {
+        "PubMed_ID": 26615328,
+        "NCT_IDs": [
+            "NCT01494506"
+        ]
+    },
+    {
+        "PubMed_ID": 26526984,
+        "NCT_IDs": [
+            "NCT01722825"
+        ]
+    },
+    {
+        "PubMed_ID": 26473652,
+        "NCT_IDs": [
+            "NCT01384617"
+        ]
+    },
+    {
+        "PubMed_ID": 26458923,
+        "NCT_IDs": [
+            "NCT02184663"
+        ]
+    },
+    {
+        "PubMed_ID": 26445094,
+        "NCT_IDs": [
+            "NCT01964534"
+        ]
+    },
+    {
+        "PubMed_ID": 26363331,
+        "NCT_IDs": [
+            "NCT02158039"
+        ]
+    },
+    {
+        "PubMed_ID": 26346997,
+        "NCT_IDs": [
+            "NCT01995474"
+        ]
+    },
+    {
+        "PubMed_ID": 26308942,
+        "NCT_IDs": [
+            "NCT01416662"
+        ]
+    },
+    {
+        "PubMed_ID": 26259955,
+        "NCT_IDs": [
+            "NCT01324258"
+        ]
+    },
+    {
+        "PubMed_ID": 26228433,
+        "NCT_IDs": [
+            "NCT02170090"
+        ]
+    },
+    {
+        "PubMed_ID": 26228214,
+        "NCT_IDs": [
+            "NCT02024321"
+        ]
+    },
+    {
+        "PubMed_ID": 26181658,
+        "NCT_IDs": [
+            "NCT01437787"
+        ]
+    },
+    {
+        "PubMed_ID": 26126727,
+        "NCT_IDs": [
+            "NCT01385956"
+        ]
+    },
+    {
+        "PubMed_ID": 26067687,
+        "NCT_IDs": [
+            "NCT01210911"
+        ]
+    },
+    {
+        "PubMed_ID": 26063633,
+        "NCT_IDs": [
+            "NCT01280201",
+            "NCT01280201"
+        ]
+    },
+    {
+        "PubMed_ID": 26052984,
+        "NCT_IDs": [
+            "NCT00790205"
+        ]
+    },
+    {
+        "PubMed_ID": 26046796,
+        "NCT_IDs": [
+            "NCT01608841"
+        ]
+    },
+    {
+        "PubMed_ID": 26041481,
+        "NCT_IDs": [
+            "NCT01593995"
+        ]
+    },
+    {
+        "PubMed_ID": 26036878,
+        "NCT_IDs": [
+            "NCT01731821"
+        ]
+    },
+    {
+        "PubMed_ID": 26009994,
+        "NCT_IDs": [
+            "NCT01188785"
+        ]
+    },
+    {
+        "PubMed_ID": 25991462,
+        "NCT_IDs": [
+            "NCT02315625"
+        ]
+    },
+    {
+        "PubMed_ID": 25979364,
+        "NCT_IDs": [
+            "NCT00641251"
+        ]
+    },
+    {
+        "PubMed_ID": 25956795,
+        "NCT_IDs": [
+            "NCT00454363"
+        ]
+    },
+    {
+        "PubMed_ID": 25915780,
+        "NCT_IDs": [
+            "NCT01631552"
+        ]
+    },
+    {
+        "PubMed_ID": 25904602,
+        "NCT_IDs": [
+            "NCT00339495"
+        ]
+    },
+    {
+        "PubMed_ID": 25886536,
+        "NCT_IDs": [
+            "NCT02319512"
+        ]
+    },
+    {
+        "PubMed_ID": 25858497,
+        "NCT_IDs": [
+            "NCT00789633"
+        ]
+    },
+    {
+        "PubMed_ID": 25837499,
+        "NCT_IDs": [
+            "NCT01547260"
+        ]
+    },
+    {
+        "PubMed_ID": 25679067,
+        "NCT_IDs": [
+            "NCT02047500"
+        ]
+    },
+    {
+        "PubMed_ID": 25634486,
+        "NCT_IDs": [
+            "NCT01447238"
+        ]
+    },
+    {
+        "PubMed_ID": 25609246,
+        "NCT_IDs": [
+            "NCT01231347"
+        ]
+    },
+    {
+        "PubMed_ID": 25573533,
+        "NCT_IDs": [
+            "NCT00515866"
+        ]
+    },
+    {
+        "PubMed_ID": 25512461,
+        "NCT_IDs": [
+            "NCT01144455",
+            "NCT01746979"
+        ]
+    },
+    {
+        "PubMed_ID": 25502863,
+        "NCT_IDs": [
+            "NCT01018784"
+        ]
+    },
+    {
+        "PubMed_ID": 25372085,
+        "NCT_IDs": [
+            "NCT00748644"
+        ]
+    },
+    {
+        "PubMed_ID": 25325684,
+        "NCT_IDs": [
+            "NCT01563133"
+        ]
+    },
+    {
+        "PubMed_ID": 25252602,
+        "NCT_IDs": [
+            "NCT00335543",
+            "NCT00335543"
+        ]
+    },
+    {
+        "PubMed_ID": 25243564,
+        "NCT_IDs": [
+            "NCT02121886"
+        ]
+    },
+    {
+        "PubMed_ID": 25164437,
+        "NCT_IDs": [
+            "NCT00440167"
+        ]
+    },
+    {
+        "PubMed_ID": 25146716,
+        "NCT_IDs": [
+            "NCT01836237"
+        ]
+    },
+    {
+        "PubMed_ID": 25098612,
+        "NCT_IDs": [
+            "NCT01479803"
+        ]
+    },
+    {
+        "PubMed_ID": 25014687,
+        "NCT_IDs": [
+            "NCT00353496"
+        ]
+    },
+    {
+        "PubMed_ID": 24978858,
+        "NCT_IDs": [
+            "NCT01922492"
+        ]
+    },
+    {
+        "PubMed_ID": 24973173,
+        "NCT_IDs": [
+            "NCT01809028"
+        ]
+    },
+    {
+        "PubMed_ID": 24916038,
+        "NCT_IDs": [
+            "NCT00965718"
+        ]
+    },
+    {
+        "PubMed_ID": 24907635,
+        "NCT_IDs": [
+            "NCT00556023"
+        ]
+    },
+    {
+        "PubMed_ID": 24906700,
+        "NCT_IDs": [
+            "NCT01900327"
+        ]
+    },
+    {
+        "PubMed_ID": 24901360,
+        "NCT_IDs": [
+            "NCT00536874"
+        ]
+    },
+    {
+        "PubMed_ID": 24894410,
+        "NCT_IDs": [
+            "NCT01879878"
+        ]
+    },
+    {
+        "PubMed_ID": 24849084,
+        "NCT_IDs": [
+            "NCT00994110"
+        ]
+    },
+    {
+        "PubMed_ID": 24827134,
+        "NCT_IDs": [
+            "NCT00674973"
+        ]
+    },
+    {
+        "PubMed_ID": 24770971,
+        "NCT_IDs": [
+            "NCT01643460"
+        ]
+    },
+    {
+        "PubMed_ID": 24737778,
+        "NCT_IDs": [
+            "NCT00874042"
+        ]
+    },
+    {
+        "PubMed_ID": 24641937,
+        "NCT_IDs": [
+            "NCT01945879"
+        ]
+    },
+    {
+        "PubMed_ID": 24628963,
+        "NCT_IDs": [
+            "NCT01203306"
+        ]
+    },
+    {
+        "PubMed_ID": 24614108,
+        "NCT_IDs": [
+            "NCT01276613"
+        ]
+    },
+    {
+        "PubMed_ID": 24559784,
+        "NCT_IDs": [
+            "NCT01356030"
+        ]
+    },
+    {
+        "PubMed_ID": 24368638,
+        "NCT_IDs": [
+            "NCT00679913"
+        ]
+    },
+    {
+        "PubMed_ID": 24131140,
+        "NCT_IDs": [
+            "NCT00844649"
+        ]
+    },
+    {
+        "PubMed_ID": 24053191,
+        "NCT_IDs": [
+            "NCT00326469"
+        ]
+    },
+    {
+        "PubMed_ID": 24035405,
+        "NCT_IDs": [
+            "NCT01649024"
+        ]
+    },
+    {
+        "PubMed_ID": 24034562,
+        "NCT_IDs": [
+            "NCT01795274"
+        ]
+    },
+    {
+        "PubMed_ID": 23878017,
+        "NCT_IDs": [
+            "NCT01384617"
+        ]
+    },
+    {
+        "PubMed_ID": 23643139,
+        "NCT_IDs": [
+            "NCT00830778"
+        ]
+    },
+    {
+        "PubMed_ID": 23448807,
+        "NCT_IDs": [
+            "NCT00902291"
+        ]
+    },
+    {
+        "PubMed_ID": 23433878,
+        "NCT_IDs": [
+            "NCT01354795"
+        ]
+    },
+    {
+        "PubMed_ID": 23429495,
+        "NCT_IDs": [
+            "NCT00201838"
+        ]
+    },
+    {
+        "PubMed_ID": 23250820,
+        "NCT_IDs": [
+            "NCT00850291"
+        ]
+    },
+    {
+        "PubMed_ID": 23229886,
+        "NCT_IDs": [
+            "NCT00569387",
+            "NCT01072981"
+        ]
+    },
+    {
+        "PubMed_ID": 23157946,
+        "NCT_IDs": [
+            "NCT00495924"
+        ]
+    },
+    {
+        "PubMed_ID": 22906006,
+        "NCT_IDs": [
+            "NCT01486329"
+        ]
+    },
+    {
+        "PubMed_ID": 22798186,
+        "NCT_IDs": [
+            "NCT00889213"
+        ]
+    },
+    {
+        "PubMed_ID": 22782416,
+        "NCT_IDs": [
+            "NCT00058201"
+        ]
+    },
+    {
+        "PubMed_ID": 22658128,
+        "NCT_IDs": [
+            "NCT00729664"
+        ]
+    },
+    {
+        "PubMed_ID": 22443802,
+        "NCT_IDs": [
+            "NCT01372735"
+        ]
+    },
+    {
+        "PubMed_ID": 22302349,
+        "NCT_IDs": [
+            "NCT00922896"
+        ]
+    },
+    {
+        "PubMed_ID": 22272248,
+        "NCT_IDs": [
+            "NCT00954525"
+        ]
+    },
+    {
+        "PubMed_ID": 22264850,
+        "NCT_IDs": [
+            "NCT00532155",
+            "NCT00574275",
+            "NCT00561470"
+        ]
+    },
+    {
+        "PubMed_ID": 22248602,
+        "NCT_IDs": [
+            "NCT01227382"
+        ]
+    },
+    {
+        "PubMed_ID": 22192731,
+        "NCT_IDs": [
+            "NCT01149122"
+        ]
+    },
+    {
+        "PubMed_ID": 22119496,
+        "NCT_IDs": [
+            "NCT00412061"
+        ]
+    },
+    {
+        "PubMed_ID": 22100906,
+        "NCT_IDs": [
+            "NCT00462852"
+        ]
+    },
+    {
+        "PubMed_ID": 21943032,
+        "NCT_IDs": [
+            "NCT00112697"
+        ]
+    },
+    {
+        "PubMed_ID": 21833720,
+        "NCT_IDs": [
+            "NCT00550004"
+        ]
+    },
+    {
+        "PubMed_ID": 21831266,
+        "NCT_IDs": [
+            "NCT01314027"
+        ]
+    },
+    {
+        "PubMed_ID": 21629990,
+        "NCT_IDs": [
+            "NCT00326911"
+        ]
+    },
+    {
+        "PubMed_ID": 21595953,
+        "NCT_IDs": [
+            "NCT01294358"
+        ]
+    },
+    {
+        "PubMed_ID": 21594619,
+        "NCT_IDs": [
+            "NCT00372944"
+        ]
+    },
+    {
+        "PubMed_ID": 21561347,
+        "NCT_IDs": [
+            "NCT00112658"
+        ]
+    },
+    {
+        "PubMed_ID": 21306953,
+        "NCT_IDs": [
+            "NCT00471146"
+        ]
+    },
+    {
+        "PubMed_ID": 21306238,
+        "NCT_IDs": [
+            "NCT00510068"
+        ]
+    },
+    {
+        "PubMed_ID": 21306237,
+        "NCT_IDs": [
+            "NCT00428597"
+        ]
+    },
+    {
+        "PubMed_ID": 21281486,
+        "NCT_IDs": [
+            "NCT00495924"
+        ]
+    },
+    {
+        "PubMed_ID": 21248633,
+        "NCT_IDs": [
+            "NCT00639314"
+        ]
+    },
+    {
+        "PubMed_ID": 21148613,
+        "NCT_IDs": [
+            "NCT00397787"
+        ]
+    },
+    {
+        "PubMed_ID": 26190488,
+        "NCT_IDs": [
+            "NCT00683358",
+            "NCT00683085"
+        ]
+    },
+    {
+        "PubMed_ID": 21074910,
+        "NCT_IDs": [
+            "NCT00576940"
+        ]
+    },
+    {
+        "PubMed_ID": 20823433,
+        "NCT_IDs": [
+            "NCT00058201"
+        ]
+    },
+    {
+        "PubMed_ID": 20630061,
+        "NCT_IDs": [
+            "NCT00640978"
+        ]
+    },
+    {
+        "PubMed_ID": 20622661,
+        "NCT_IDs": [
+            "NCT00931554"
+        ]
+    },
+    {
+        "PubMed_ID": 20214798,
+        "NCT_IDs": [
+            "NCT00919659"
+        ]
+    },
+    {
+        "PubMed_ID": 20194854,
+        "NCT_IDs": [
+            "NCT00813696"
+        ]
+    },
+    {
+        "PubMed_ID": 19476827,
+        "NCT_IDs": [
+            "NCT00359320"
+        ]
+    },
+    {
+        "PubMed_ID": 18669424,
+        "NCT_IDs": [
+            "NCT00149279"
+        ]
+    },
+    {
+        "PubMed_ID": 18571296,
+        "NCT_IDs": [
+            "NCT00576940"
+        ]
+    },
+    {
+        "PubMed_ID": 18514303,
+        "NCT_IDs": [
+            "NCT00219557"
+        ]
+    },
+    {
+        "PubMed_ID": 18319412,
+        "NCT_IDs": [
+            "NCT00003216"
+        ]
+    },
+    {
+        "PubMed_ID": 18249033,
+        "NCT_IDs": [
+            "NCT00030732"
+        ]
+    },
+    {
+        "PubMed_ID": 18191528,
+        "NCT_IDs": [
+            "NCT00335543"
+        ]
+    },
+    {
+        "PubMed_ID": 18077217,
+        "NCT_IDs": [
+            "NCT00536614"
+        ]
+    },
+    {
+        "PubMed_ID": 39793573,
+        "NCT_IDs": [
+            "NCT04129294"
+        ]
+    },
+    {
+        "PubMed_ID": 39747998,
+        "NCT_IDs": [
+            "NCT04626674"
+        ]
+    },
+    {
+        "PubMed_ID": 39713935,
+        "NCT_IDs": [
+            "NCT02310763",
+            "NCT02310763"
+        ]
+    },
+    {
+        "PubMed_ID": 39436553,
+        "NCT_IDs": [
+            "NCT05549999"
+        ]
+    },
+    {
+        "PubMed_ID": 39379403,
+        "NCT_IDs": [
+            "NCT04956289"
+        ]
+    },
+    {
+        "PubMed_ID": 38960907,
+        "NCT_IDs": [
+            "NCT03354039",
+            "NCT03354039"
+        ]
+    },
+    {
+        "PubMed_ID": 38753764,
+        "NCT_IDs": [
+            "NCT03375164",
+            "NCT03769116"
+        ]
+    },
+    {
+        "PubMed_ID": 38508835,
+        "NCT_IDs": [
+            "NCT02851797"
+        ]
+    },
+    {
+        "PubMed_ID": 38473704,
+        "NCT_IDs": [
+            "NCT03852498",
+            "NCT05514249"
+        ]
+    },
+    {
+        "PubMed_ID": 38427368,
+        "NCT_IDs": [
+            "NCT05688072"
+        ]
+    },
+    {
+        "PubMed_ID": 38335499,
+        "NCT_IDs": [
+            "NCT03439670"
+        ]
+    },
+    {
+        "PubMed_ID": 38306745,
+        "NCT_IDs": [
+            "NCT03375164",
+            "NCT03769116",
+            "NCT04626674"
+        ]
+    },
+    {
+        "PubMed_ID": 38229112,
+        "NCT_IDs": [
+            "NCT03368742"
+        ]
+    },
+    {
+        "PubMed_ID": 38190001,
+        "NCT_IDs": [
+            "NCT02145234",
+            "NCT02515669",
+            "NCT03039686",
+            "NCT02145234",
+            "NCT02515669",
+            "NCT03039686"
+        ]
+    },
+    {
+        "PubMed_ID": 38089167,
+        "NCT_IDs": [
+            "NCT03760029"
+        ]
+    },
+    {
+        "PubMed_ID": 38057636,
+        "NCT_IDs": [
+            "NCT02675465"
+        ]
+    },
+    {
+        "PubMed_ID": 37844796,
+        "NCT_IDs": [
+            "NCT02753959"
+        ]
+    },
+    {
+        "PubMed_ID": 37739572,
+        "NCT_IDs": [
+            "NCT03354039"
+        ]
+    },
+    {
+        "PubMed_ID": 37577753,
+        "NCT_IDs": [
+            "NCT03375164"
+        ]
+    },
+    {
+        "PubMed_ID": 37468890,
+        "NCT_IDs": [
+            "NCT01254019"
+        ]
+    },
+    {
+        "PubMed_ID": 37393513,
+        "NCT_IDs": [
+            "NCT04089566"
+        ]
+    },
+    {
+        "PubMed_ID": 37248912,
+        "NCT_IDs": [
+            "NCT02606136"
+        ]
+    },
+    {
+        "PubMed_ID": 37115359,
+        "NCT_IDs": [
+            "NCT02369731"
+        ]
+    },
+    {
+        "PubMed_ID": 37036722,
+        "NCT_IDs": [
+            "NCT02782741"
+        ]
+    },
+    {
+        "PubMed_ID": 37005891,
+        "NCT_IDs": [
+            "NCT03167255"
+        ]
+    },
+    {
+        "PubMed_ID": 36804094,
+        "NCT_IDs": [
+            "NCT02312011"
+        ]
+    },
+    {
+        "PubMed_ID": 36335191,
+        "NCT_IDs": [
+            "NCT02310763"
+        ]
+    },
+    {
+        "PubMed_ID": 36104012,
+        "NCT_IDs": [
+            "NCT02310763",
+            "NCT01616277",
+            "NCT01616277",
+            "NCT02310763"
+        ]
+    },
+    {
+        "PubMed_ID": 36036925,
+        "NCT_IDs": [
+            "NCT03439670"
+        ]
+    },
+    {
+        "PubMed_ID": 35998119,
+        "NCT_IDs": [
+            "NCT02310763"
+        ]
+    },
+    {
+        "PubMed_ID": 35690783,
+        "NCT_IDs": [
+            "NCT01254019"
+        ]
+    },
+    {
+        "PubMed_ID": 35634851,
+        "NCT_IDs": [
+            "NCT03167255",
+            "NCT02740972"
+        ]
+    },
+    {
+        "PubMed_ID": 35567345,
+        "NCT_IDs": [
+            "NCT04089566"
+        ]
+    },
+    {
+        "PubMed_ID": 35396602,
+        "NCT_IDs": [
+            "NCT02310763"
+        ]
+    },
+    {
+        "PubMed_ID": 35381069,
+        "NCT_IDs": [
+            "NCT01603407"
+        ]
+    },
+    {
+        "PubMed_ID": 35236763,
+        "NCT_IDs": [
+            "NCT01999075"
+        ]
+    },
+    {
+        "PubMed_ID": 35076703,
+        "NCT_IDs": [
+            "NCT03038399"
+        ]
+    },
+    {
+        "PubMed_ID": 34905152,
+        "NCT_IDs": [
+            "NCT02418338"
+        ]
+    },
+    {
+        "PubMed_ID": 34779542,
+        "NCT_IDs": [
+            "NCT018264229"
+        ]
+    },
+    {
+        "PubMed_ID": 34383312,
+        "NCT_IDs": [
+            "NCT01826487"
+        ]
+    },
+    {
+        "PubMed_ID": 34228102,
+        "NCT_IDs": [
+            "NCT00799266"
+        ]
+    },
+    {
+        "PubMed_ID": 34155911,
+        "NCT_IDs": [
+            "NCT02310763"
+        ]
+    },
+    {
+        "PubMed_ID": 34120912,
+        "NCT_IDs": [
+            "NCT03703882"
+        ]
+    },
+    {
+        "PubMed_ID": 32956407,
+        "NCT_IDs": [
+            "NCT02760264",
+            "NCT02760277",
+            "NCT03038399"
+        ]
+    },
+    {
+        "PubMed_ID": 32749459,
+        "NCT_IDs": [
+            "NCT01458405"
+        ]
+    },
+    {
+        "PubMed_ID": 32592467,
+        "NCT_IDs": [
+            "NCT02760264"
+        ]
+    },
+    {
+        "PubMed_ID": 32539076,
+        "NCT_IDs": [
+            "NCT03375164"
+        ]
+    },
+    {
+        "PubMed_ID": 32522498,
+        "NCT_IDs": [
+            "NCT02310763",
+            "NCT02907619"
+        ]
+    },
+    {
+        "PubMed_ID": 32453377,
+        "NCT_IDs": [
+            "NCT02740972"
+        ]
+    },
+    {
+        "PubMed_ID": 32139505,
+        "NCT_IDs": [
+            "NCT02310906"
+        ]
+    },
+    {
+        "PubMed_ID": 32024675,
+        "NCT_IDs": [
+            "NCT01484678"
+        ]
+    },
+    {
+        "PubMed_ID": 31876124,
+        "NCT_IDs": [
+            "NCT02340923"
+        ]
+    },
+    {
+        "PubMed_ID": 31752977,
+        "NCT_IDs": [
+            "NCT03354039"
+        ]
+    },
+    {
+        "PubMed_ID": 31664444,
+        "NCT_IDs": [
+            "NCT01995032"
+        ]
+    },
+    {
+        "PubMed_ID": 31023296,
+        "NCT_IDs": [
+            "NCT02571205",
+            "NCT02571205"
+        ]
+    },
+    {
+        "PubMed_ID": 30674601,
+        "NCT_IDs": [
+            "NCT02485938"
+        ]
+    },
+    {
+        "PubMed_ID": 30420291,
+        "NCT_IDs": [
+            "NCT018264229"
+        ]
+    },
+    {
+        "PubMed_ID": 30135256,
+        "NCT_IDs": [
+            "NCT02090959"
+        ]
+    },
+    {
+        "PubMed_ID": 29203355,
+        "NCT_IDs": [
+            "NCT01254019"
+        ]
+    },
+    {
+        "PubMed_ID": 29174484,
+        "NCT_IDs": [
+            "NCT00468832"
+        ]
+    },
+    {
+        "PubMed_ID": 28987470,
+        "NCT_IDs": [
+            "NCT018264229"
+        ]
+    },
+    {
+        "PubMed_ID": 28972192,
+        "NCT_IDs": [
+            "NCT01865084"
+        ]
+    },
+    {
+        "PubMed_ID": 28728956,
+        "NCT_IDs": [
+            "NCT01826487"
+        ]
+    },
+    {
+        "PubMed_ID": 28219442,
+        "NCT_IDs": [
+            "NCT01521546"
+        ]
+    },
+    {
+        "PubMed_ID": 27926769,
+        "NCT_IDs": [
+            "NCT02432885"
+        ]
+    },
+    {
+        "PubMed_ID": 27588424,
+        "NCT_IDs": [
+            "NCT01910649"
+        ]
+    },
+    {
+        "PubMed_ID": 27488051,
+        "NCT_IDs": [
+            "NCT01995032"
+        ]
+    },
+    {
+        "PubMed_ID": 27271157,
+        "NCT_IDs": [
+            "NCT01611597"
+        ]
+    },
+    {
+        "PubMed_ID": 27055247,
+        "NCT_IDs": [
+            "NCT02383511"
+        ]
+    },
+    {
+        "PubMed_ID": 26799743,
+        "NCT_IDs": [
+            "NCT02516085"
+        ]
+    },
+    {
+        "PubMed_ID": 25907158,
+        "NCT_IDs": [
+            "NCT01027884"
+        ]
+    },
+    {
+        "PubMed_ID": 25643053,
+        "NCT_IDs": [
+            "NCT00993161",
+            "NCT00993161"
+        ]
+    },
+    {
+        "PubMed_ID": 25554404,
+        "NCT_IDs": [
+            "NCT01521546"
+        ]
+    },
+    {
+        "PubMed_ID": 25209738,
+        "NCT_IDs": [
+            "NCT01153932"
+        ]
+    },
+    {
+        "PubMed_ID": 25042693,
+        "NCT_IDs": [
+            "NCT01168908"
+        ]
+    },
+    {
+        "PubMed_ID": 24349052,
+        "NCT_IDs": [
+            "NCT00264888"
+        ]
+    },
+    {
+        "PubMed_ID": 23406536,
+        "NCT_IDs": [
+            "NCT00527228"
+        ]
+    },
+    {
+        "PubMed_ID": 21784508,
+        "NCT_IDs": [
+            "NCT00844597"
+        ]
+    },
+    {
+        "PubMed_ID": 20925545,
+        "NCT_IDs": [
+            "NCT00428935"
+        ]
+    },
+    {
+        "PubMed_ID": 19713152,
+        "NCT_IDs": [
+            "NCT00159250"
+        ]
+    },
+    {
+        "PubMed_ID": 19421321,
+        "NCT_IDs": [
+            "NCT00296621"
+        ]
+    },
+    {
+        "PubMed_ID": 39947818,
+        "NCT_IDs": [
+            "NCT03047642"
+        ]
+    },
+    {
+        "PubMed_ID": 39627222,
+        "NCT_IDs": [
+            "NCT03378661"
+        ]
+    },
+    {
+        "PubMed_ID": 39532861,
+        "NCT_IDs": [
+            "NCT04505722"
+        ]
+    },
+    {
+        "PubMed_ID": 39356542,
+        "NCT_IDs": [
+            "NCT01722942"
+        ]
+    },
+    {
+        "PubMed_ID": 39225478,
+        "NCT_IDs": [
+            "NCT04470427",
+            "NCT04505722",
+            "NCT04516746",
+            "NCT04611802"
+        ]
+    },
+    {
+        "PubMed_ID": 39111953,
+        "NCT_IDs": [
+            "NCT04023227"
+        ]
+    },
+    {
+        "PubMed_ID": 38768617,
+        "NCT_IDs": [
+            "NCT03338621"
+        ]
+    },
+    {
+        "PubMed_ID": 38589582,
+        "NCT_IDs": [
+            "NCT02517632"
+        ]
+    },
+    {
+        "PubMed_ID": 38294972,
+        "NCT_IDs": [
+            "NCT02406729"
+        ]
+    },
+    {
+        "PubMed_ID": 38220413,
+        "NCT_IDs": [
+            "NCT04413266"
+        ]
+    },
+    {
+        "PubMed_ID": 38218195,
+        "NCT_IDs": [
+            "NCT03191162"
+        ]
+    },
+    {
+        "PubMed_ID": 38218194,
+        "NCT_IDs": [
+            "NCT03587766"
+        ]
+    },
+    {
+        "PubMed_ID": 38095899,
+        "NCT_IDs": [
+            "NCT03179020"
+        ]
+    },
+    {
+        "PubMed_ID": 37783219,
+        "NCT_IDs": [
+            "NCT02720094"
+        ]
+    },
+    {
+        "PubMed_ID": 37385888,
+        "NCT_IDs": [
+            "NCT04470427",
+            "NCT04516746",
+            "NCT04505722",
+            "NCT04611802"
+        ]
+    },
+    {
+        "PubMed_ID": 37352322,
+        "NCT_IDs": [
+            "NCT02625974",
+            "NCT02625974"
+        ]
+    },
+    {
+        "PubMed_ID": 36708650,
+        "NCT_IDs": [
+            "NCT04411758"
+        ]
+    },
+    {
+        "PubMed_ID": 36638112,
+        "NCT_IDs": [
+            "NCT04984616"
+        ]
+    },
+    {
+        "PubMed_ID": 36409773,
+        "NCT_IDs": [
+            "NCT01489228"
+        ]
+    },
+    {
+        "PubMed_ID": 36152526,
+        "NCT_IDs": [
+            "NCT04375553"
+        ]
+    },
+    {
+        "PubMed_ID": 35925555,
+        "NCT_IDs": [
+            "NCT02498782"
+        ]
+    },
+    {
+        "PubMed_ID": 35657826,
+        "NCT_IDs": [
+            "NCT04925752"
+        ]
+    },
+    {
+        "PubMed_ID": 35570301,
+        "NCT_IDs": [
+            "NCT05041868"
+        ]
+    },
+    {
+        "PubMed_ID": 35429381,
+        "NCT_IDs": [
+            "NCT04505722"
+        ]
+    },
+    {
+        "PubMed_ID": 35421085,
+        "NCT_IDs": [
+            "NCT02646943"
+        ]
+    },
+    {
+        "PubMed_ID": 35405099,
+        "NCT_IDs": [
+            "NCT04364893"
+        ]
+    },
+    {
+        "PubMed_ID": 35139271,
+        "NCT_IDs": [
+            "NCT04505722"
+        ]
+    },
+    {
+        "PubMed_ID": 34972765,
+        "NCT_IDs": [
+            "NCT03981523"
+        ]
+    },
+    {
+        "PubMed_ID": 34379922,
+        "NCT_IDs": [
+            "NCT02720094"
+        ]
+    },
+    {
+        "PubMed_ID": 33974559,
+        "NCT_IDs": [
+            "NCT04359810"
+        ]
+    },
+    {
+        "PubMed_ID": 33882225,
+        "NCT_IDs": [
+            "NCT04505722"
+        ]
+    },
+    {
+        "PubMed_ID": 33836161,
+        "NCT_IDs": [
+            "NCT03378661"
+        ]
+    },
+    {
+        "PubMed_ID": 33464336,
+        "NCT_IDs": [
+            "NCT04364893"
+        ]
+    },
+    {
+        "PubMed_ID": 33412557,
+        "NCT_IDs": [
+            "NCT02625974"
+        ]
+    },
+    {
+        "PubMed_ID": 33128903,
+        "NCT_IDs": [
+            "NCT02362503"
+        ]
+    },
+    {
+        "PubMed_ID": 32875456,
+        "NCT_IDs": [
+            "NCT02295215",
+            "NCT02295215"
+        ]
+    },
+    {
+        "PubMed_ID": 32831069,
+        "NCT_IDs": [
+            "NCT03672487"
+        ]
+    },
+    {
+        "PubMed_ID": 32785710,
+        "NCT_IDs": [
+            "NCT04343729"
+        ]
+    },
+    {
+        "PubMed_ID": 32330277,
+        "NCT_IDs": [
+            "NCT04323527"
+        ]
+    },
+    {
+        "PubMed_ID": 32293523,
+        "NCT_IDs": [
+            "NCT03191162"
+        ]
+    },
+    {
+        "PubMed_ID": 32145827,
+        "NCT_IDs": [
+            "NCT01435018"
+        ]
+    },
+    {
+        "PubMed_ID": 31813633,
+        "NCT_IDs": [
+            "NCT02548351"
+        ]
+    },
+    {
+        "PubMed_ID": 31415566,
+        "NCT_IDs": [
+            "NCT01744405"
+        ]
+    },
+    {
+        "PubMed_ID": 31371262,
+        "NCT_IDs": [
+            "NCT01641367"
+        ]
+    },
+    {
+        "PubMed_ID": 31307503,
+        "NCT_IDs": [
+            "NCT02369978"
+        ]
+    },
+    {
+        "PubMed_ID": 30509941,
+        "NCT_IDs": [
+            "NCT01489228",
+            "NCT01678599"
+        ]
+    },
+    {
+        "PubMed_ID": 30231899,
+        "NCT_IDs": [
+            "NCT00875173"
+        ]
+    },
+    {
+        "PubMed_ID": 30067931,
+        "NCT_IDs": [
+            "NCT00931736"
+        ]
+    },
+    {
+        "PubMed_ID": 29352704,
+        "NCT_IDs": [
+            "NCT01489228"
+        ]
+    },
+    {
+        "PubMed_ID": 29351667,
+        "NCT_IDs": [
+            "NCT01755403",
+            "NCT01755377"
+        ]
+    },
+    {
+        "PubMed_ID": 29176887,
+        "NCT_IDs": [
+            "NCT01489228",
+            "NCT01678599",
+            "NCT01162967"
+        ]
+    },
+    {
+        "PubMed_ID": 29141857,
+        "NCT_IDs": [
+            "NCT01035255",
+            "NCT00853658"
+        ]
+    },
+    {
+        "PubMed_ID": 28599665,
+        "NCT_IDs": [
+            "NCT01863576"
+        ]
+    },
+    {
+        "PubMed_ID": 28231946,
+        "NCT_IDs": [
+            "NCT01377480"
+        ]
+    },
+    {
+        "PubMed_ID": 28063815,
+        "NCT_IDs": [
+            "NCT00867048"
+        ]
+    },
+    {
+        "PubMed_ID": 27590681,
+        "NCT_IDs": [
+            "NCT02517632"
+        ]
+    },
+    {
+        "PubMed_ID": 27424812,
+        "NCT_IDs": [
+            "NCT00074581"
+        ]
+    },
+    {
+        "PubMed_ID": 27038611,
+        "NCT_IDs": [
+            "NCT02330250"
+        ]
+    },
+    {
+        "PubMed_ID": 27025337,
+        "NCT_IDs": [
+            "NCT01380080"
+        ]
+    },
+    {
+        "PubMed_ID": 26719058,
+        "NCT_IDs": [
+            "NCT02111135"
+        ]
+    },
+    {
+        "PubMed_ID": 26571311,
+        "NCT_IDs": [
+            "NCT01154049"
+        ]
+    },
+    {
+        "PubMed_ID": 26323937,
+        "NCT_IDs": [
+            "NCT00123916"
+        ]
+    },
+    {
+        "PubMed_ID": 26318714,
+        "NCT_IDs": [
+            "NCT01841671"
+        ]
+    },
+    {
+        "PubMed_ID": 26059242,
+        "NCT_IDs": [
+            "NCT01239862"
+        ]
+    },
+    {
+        "PubMed_ID": 26022214,
+        "NCT_IDs": [
+            "NCT01990391"
+        ]
+    },
+    {
+        "PubMed_ID": 25824212,
+        "NCT_IDs": [
+            "NCT01755403"
+        ]
+    },
+    {
+        "PubMed_ID": 25284194,
+        "NCT_IDs": [
+            "NCT00875173"
+        ]
+    },
+    {
+        "PubMed_ID": 25210104,
+        "NCT_IDs": [
+            "NCT01547533",
+            "NCT01547533"
+        ]
+    },
+    {
+        "PubMed_ID": 24853169,
+        "NCT_IDs": [
+            "NCT00699387",
+            "NCT00699387"
+        ]
+    },
+    {
+        "PubMed_ID": 24827034,
+        "NCT_IDs": [
+            "NCT01162967"
+        ]
+    },
+    {
+        "PubMed_ID": 24723284,
+        "NCT_IDs": [
+            "NCT00604175"
+        ]
+    },
+    {
+        "PubMed_ID": 24602844,
+        "NCT_IDs": [
+            "NCT00074581"
+        ]
+    },
+    {
+        "PubMed_ID": 24268211,
+        "NCT_IDs": [
+            "NCT01722942"
+        ]
+    },
+    {
+        "PubMed_ID": 24216069,
+        "NCT_IDs": [
+            "NCT01863576"
+        ]
+    },
+    {
+        "PubMed_ID": 23638197,
+        "NCT_IDs": [
+            "NCT00505050"
+        ]
+    },
+    {
+        "PubMed_ID": 23487538,
+        "NCT_IDs": [
+            "NCT00410761"
+        ]
+    },
+    {
+        "PubMed_ID": 23270509,
+        "NCT_IDs": [
+            "NCT01566617"
+        ]
+    },
+    {
+        "PubMed_ID": 22761759,
+        "NCT_IDs": [
+            "NCT01155037",
+            "NCT01155037"
+        ]
+    },
+    {
+        "PubMed_ID": 19933408,
+        "NCT_IDs": [
+            "NCT00505050"
         ]
     },
     {
@@ -72,314 +5148,1495 @@
         ]
     },
     {
-        "PubMed_ID": 40048101,
-        "NCT_IDs": [
-            "NCT04595409"
-        ]
-    },
-    {
-        "PubMed_ID": 40047763,
-        "NCT_IDs": [
-            "NCT03036124",
-            "NCT03619213"
-        ]
-    },
-    {
-        "PubMed_ID": 40045349,
-        "NCT_IDs": [
-            "NCT06131879"
-        ]
-    },
-    {
-        "PubMed_ID": 40045332,
-        "NCT_IDs": [
-            "NCT04383236"
-        ]
-    },
-    {
-        "PubMed_ID": 40045329,
-        "NCT_IDs": [
-            "NCT04245839",
-            "NCT02500407"
-        ]
-    },
-    {
-        "PubMed_ID": 40045281,
-        "NCT_IDs": [
-            "NCT04118374"
-        ]
-    },
-    {
-        "PubMed_ID": 40044930,
-        "NCT_IDs": [
-            "NCT03914612"
-        ]
-    },
-    {
-        "PubMed_ID": 40044634,
-        "NCT_IDs": [
-            "NCT05162690"
-        ]
-    },
-    {
-        "PubMed_ID": 40044198,
-        "NCT_IDs": [
-            "NCT04333147",
-            "NCT04333147"
-        ]
-    },
-    {
         "PubMed_ID": 40044193,
         "NCT_IDs": [
             "NCT06549985"
         ]
     },
     {
-        "PubMed_ID": 40043705,
+        "PubMed_ID": 40033263,
         "NCT_IDs": [
-            "NCT04988867"
+            "NCT05824507"
         ]
     },
     {
-        "PubMed_ID": 40043690,
+        "PubMed_ID": 39473503,
         "NCT_IDs": [
-            "NCT05804942"
+            "NCT03484546",
+            "NCT034845"
         ]
     },
     {
-        "PubMed_ID": 40043237,
+        "PubMed_ID": 39469237,
         "NCT_IDs": [
-            "NCT05030311",
-            "NCT05032157"
+            "NCT02511626"
         ]
     },
     {
-        "PubMed_ID": 40043142,
+        "PubMed_ID": 39328391,
         "NCT_IDs": [
-            "NCT02673905"
+            "NCT05019612"
         ]
     },
     {
-        "PubMed_ID": 40043138,
+        "PubMed_ID": 39261815,
         "NCT_IDs": [
-            "NCT04854746"
+            "NCT05091268"
         ]
     },
     {
-        "PubMed_ID": 40042985,
+        "PubMed_ID": 39260540,
         "NCT_IDs": [
-            "NCT01508546"
+            "NCT03654326"
         ]
     },
     {
-        "PubMed_ID": 40042869,
+        "PubMed_ID": 39220343,
         "NCT_IDs": [
-            "NCT05296629",
-            "NCT05343455"
+            "NCT04370444"
         ]
     },
     {
-        "PubMed_ID": 40042824,
+        "PubMed_ID": 39046647,
         "NCT_IDs": [
-            "NCT01912534"
+            "NCT02031523"
         ]
     },
     {
-        "PubMed_ID": 40042468,
+        "PubMed_ID": 38983729,
         "NCT_IDs": [
-            "NCT04043364"
+            "NCT03573336",
+            "NCT03573336"
         ]
     },
     {
-        "PubMed_ID": 40041314,
+        "PubMed_ID": 38914481,
         "NCT_IDs": [
-            "NCT06555237"
+            "NCT04494568"
         ]
     },
     {
-        "PubMed_ID": 40038736,
+        "PubMed_ID": 38907175,
         "NCT_IDs": [
-            "NCT06604988"
+            "NCT04265781",
+            "NCT04802343"
         ]
     },
     {
-        "PubMed_ID": 40038715,
+        "PubMed_ID": 38906210,
         "NCT_IDs": [
-            "NCT06413628"
+            "NCT03654274"
         ]
     },
     {
-        "PubMed_ID": 40038707,
+        "PubMed_ID": 38890641,
         "NCT_IDs": [
-            "NCT04589143"
+            "NCT04614246"
         ]
     },
     {
-        "PubMed_ID": 40038334,
+        "PubMed_ID": 38869629,
         "NCT_IDs": [
-            "NCT02530424"
+            "NCT05528601"
         ]
     },
     {
-        "PubMed_ID": 40038272,
+        "PubMed_ID": 38648863,
         "NCT_IDs": [
-            "NCT02592330"
+            "NCT03992846"
         ]
     },
     {
-        "PubMed_ID": 40038256,
+        "PubMed_ID": 38639888,
         "NCT_IDs": [
-            "NCT04364035"
+            "NCT06106932"
         ]
     },
     {
-        "PubMed_ID": 40038129,
+        "PubMed_ID": 38444064,
         "NCT_IDs": [
-            "NCT04242251"
+            "NCT04119011"
         ]
     },
     {
-        "PubMed_ID": 40037923,
+        "PubMed_ID": 38414426,
         "NCT_IDs": [
-            "NCT03178487",
-            "NCT04169373"
+            "NCT03834922"
         ]
     },
     {
-        "PubMed_ID": 40037679,
+        "PubMed_ID": 38382700,
         "NCT_IDs": [
-            "NCT06451627",
-            "NCT06451627"
+            "NCT06017531"
         ]
     },
     {
-        "PubMed_ID": 40037665,
+        "PubMed_ID": 38243752,
         "NCT_IDs": [
-            "NCT05929417"
+            "NCT03654274"
         ]
     },
     {
-        "PubMed_ID": 40037347,
+        "PubMed_ID": 38044419,
         "NCT_IDs": [
-            "NCT04231071"
+            "NCT04487431",
+            "NCT02817100",
+            "NCT03310645"
         ]
     },
     {
-        "PubMed_ID": 40037029,
+        "PubMed_ID": 38012776,
         "NCT_IDs": [
-            "NCT02256436",
-            "NCT02853305"
+            "NCT05831735"
         ]
     },
     {
-        "PubMed_ID": 40036215,
+        "PubMed_ID": 37838623,
         "NCT_IDs": [
-            "NCT05560802"
+            "NCT04417972"
         ]
     },
     {
-        "PubMed_ID": 40036206,
+        "PubMed_ID": 37769311,
         "NCT_IDs": [
-            "NCT03890432"
+            "NCT03886220"
         ]
     },
     {
-        "PubMed_ID": 40036036,
+        "PubMed_ID": 37693279,
         "NCT_IDs": [
-            "NCT05144737"
+            "NCT02511626"
         ]
     },
     {
-        "PubMed_ID": 40035894,
+        "PubMed_ID": 37614066,
         "NCT_IDs": [
-            "NCT05472987"
+            "NCT03603145"
         ]
     },
     {
-        "PubMed_ID": 40035884,
+        "PubMed_ID": 37479520,
         "NCT_IDs": [
-            "NCT05262621"
+            "NCT00225199",
+            "NCT00185341"
         ]
     },
     {
-        "PubMed_ID": 40035875,
+        "PubMed_ID": 37422772,
         "NCT_IDs": [
-            "NCT02793921"
+            "NCT03373422",
+            "NCT03373422"
         ]
     },
     {
-        "PubMed_ID": 40035864,
+        "PubMed_ID": 37306288,
         "NCT_IDs": [
-            "NCT02194504",
-            "NCT01684917"
+            "NCT02434640"
         ]
     },
     {
-        "PubMed_ID": 40034703,
+        "PubMed_ID": 37283994,
         "NCT_IDs": [
-            "NCT05080920",
-            "NCT05080920"
+            "NCT03204318",
+            "NCT03204331"
         ]
     },
     {
-        "PubMed_ID": 40034530,
+        "PubMed_ID": 37267394,
         "NCT_IDs": [
-            "NCT05983575"
+            "NCT03782740"
         ]
     },
     {
-        "PubMed_ID": 40033991,
+        "PubMed_ID": 37260160,
         "NCT_IDs": [
-            "NCT04124965",
-            "NCT04650854"
+            "NCT05172492",
+            "NCT05172492"
         ]
     },
     {
-        "PubMed_ID": 40033397,
+        "PubMed_ID": 37187159,
         "NCT_IDs": [
-            "NCT05106608"
+            "NCT0459154"
         ]
     },
     {
-        "PubMed_ID": 40033245,
+        "PubMed_ID": 36972117,
         "NCT_IDs": [
-            "NCT06640608"
+            "NCT04370444",
+            "NCT04370444"
         ]
     },
     {
-        "PubMed_ID": 40033223,
+        "PubMed_ID": 36882181,
         "NCT_IDs": [
-            "NCT05599646"
+            "NCT05231239"
         ]
     },
     {
-        "PubMed_ID": 40033113,
+        "PubMed_ID": 36797461,
         "NCT_IDs": [
-            "NCT04153864"
+            "NCT02761382"
         ]
     },
     {
-        "PubMed_ID": 40032676,
+        "PubMed_ID": 36716811,
         "NCT_IDs": [
-            "NCT04207580"
+            "NCT03125304"
         ]
     },
     {
-        "PubMed_ID": 40032619,
+        "PubMed_ID": 36599637,
         "NCT_IDs": [
-            "NCT02746965"
+            "NCT05019612"
         ]
     },
     {
-        "PubMed_ID": 40032405,
+        "PubMed_ID": 36592649,
         "NCT_IDs": [
-            "NCT06412107"
+            "NCT05153512"
         ]
     },
     {
-        "PubMed_ID": 40032398,
+        "PubMed_ID": 36328387,
         "NCT_IDs": [
-            "NCT05006976"
+            "NCT05162794"
+        ]
+    },
+    {
+        "PubMed_ID": 36129733,
+        "NCT_IDs": [
+            "NCT04650516"
+        ]
+    },
+    {
+        "PubMed_ID": 36053449,
+        "NCT_IDs": [
+            "NCT03126747"
+        ]
+    },
+    {
+        "PubMed_ID": 35974874,
+        "NCT_IDs": [
+            "NCT01363596"
+        ]
+    },
+    {
+        "PubMed_ID": 35947347,
+        "NCT_IDs": [
+            "NCT03232281"
+        ]
+    },
+    {
+        "PubMed_ID": 35921357,
+        "NCT_IDs": [
+            "NCT04743167"
+        ]
+    },
+    {
+        "PubMed_ID": 35851028,
+        "NCT_IDs": [
+            "NCT05179109"
+        ]
+    },
+    {
+        "PubMed_ID": 35835531,
+        "NCT_IDs": [
+            "NCT05032846"
+        ]
+    },
+    {
+        "PubMed_ID": 35717987,
+        "NCT_IDs": [
+            "NCT03204318",
+            "NCT03204331",
+            "NCT03654274"
+        ]
+    },
+    {
+        "PubMed_ID": 35715184,
+        "NCT_IDs": [
+            "NCT04173169"
+        ]
+    },
+    {
+        "PubMed_ID": 35437837,
+        "NCT_IDs": [
+            "NCT02817100"
+        ]
+    },
+    {
+        "PubMed_ID": 35414092,
+        "NCT_IDs": [
+            "NCT05098444"
+        ]
+    },
+    {
+        "PubMed_ID": 35410921,
+        "NCT_IDs": [
+            "NCT04610710"
+        ]
+    },
+    {
+        "PubMed_ID": 35119037,
+        "NCT_IDs": [
+            "NCT01942369"
+        ]
+    },
+    {
+        "PubMed_ID": 35112299,
+        "NCT_IDs": [
+            "NCT02425462"
+        ]
+    },
+    {
+        "PubMed_ID": 35042563,
+        "NCT_IDs": [
+            "NCT04735770"
+        ]
+    },
+    {
+        "PubMed_ID": 34934987,
+        "NCT_IDs": [
+            "NCT02542410"
+        ]
+    },
+    {
+        "PubMed_ID": 34895700,
+        "NCT_IDs": [
+            "NCT03931915"
+        ]
+    },
+    {
+        "PubMed_ID": 34880026,
+        "NCT_IDs": [
+            "NCT04448366"
+        ]
+    },
+    {
+        "PubMed_ID": 34878624,
+        "NCT_IDs": [
+            "NCT01620528",
+            "NCT01760954",
+            "NCT01931670",
+            "NCT02143713",
+            "NCT02654054",
+            "NCT02691494",
+            "NCT0295494"
+        ]
+    },
+    {
+        "PubMed_ID": 34868929,
+        "NCT_IDs": [
+            "NCT03332004"
+        ]
+    },
+    {
+        "PubMed_ID": 34826668,
+        "NCT_IDs": [
+            "NCT04256200"
+        ]
+    },
+    {
+        "PubMed_ID": 34668986,
+        "NCT_IDs": [
+            "NCT03782740"
+        ]
+    },
+    {
+        "PubMed_ID": 34650132,
+        "NCT_IDs": [
+            "NCT01266421"
+        ]
+    },
+    {
+        "PubMed_ID": 34623489,
+        "NCT_IDs": [
+            "NCT03354793"
+        ]
+    },
+    {
+        "PubMed_ID": 34585638,
+        "NCT_IDs": [
+            "NCT03717870"
+        ]
+    },
+    {
+        "PubMed_ID": 34518240,
+        "NCT_IDs": [
+            "NCT0405269"
+        ]
+    },
+    {
+        "PubMed_ID": 34478564,
+        "NCT_IDs": [
+            "NCT03430609",
+            "NCT03430609"
+        ]
+    },
+    {
+        "PubMed_ID": 34465452,
+        "NCT_IDs": [
+            "NCT03690765"
+        ]
+    },
+    {
+        "PubMed_ID": 34397719,
+        "NCT_IDs": [
+            "NCT01942369"
+        ]
+    },
+    {
+        "PubMed_ID": 34396512,
+        "NCT_IDs": [
+            "NCT04156932"
+        ]
+    },
+    {
+        "PubMed_ID": 34388324,
+        "NCT_IDs": [
+            "NCT03193671"
+        ]
+    },
+    {
+        "PubMed_ID": 34370858,
+        "NCT_IDs": [
+            "NCT02400801"
+        ]
+    },
+    {
+        "PubMed_ID": 34363198,
+        "NCT_IDs": [
+            "NCT04173169"
+        ]
+    },
+    {
+        "PubMed_ID": 34289889,
+        "NCT_IDs": [
+            "NCT04643106"
+        ]
+    },
+    {
+        "PubMed_ID": 34154590,
+        "NCT_IDs": [
+            "NCT01452685"
+        ]
+    },
+    {
+        "PubMed_ID": 34134684,
+        "NCT_IDs": [
+            "NCT01620528",
+            "NCT01931670"
+        ]
+    },
+    {
+        "PubMed_ID": 33875738,
+        "NCT_IDs": [
+            "NCT03374397"
+        ]
+    },
+    {
+        "PubMed_ID": 33784989,
+        "NCT_IDs": [
+            "NCT04500743"
+        ]
+    },
+    {
+        "PubMed_ID": 33737427,
+        "NCT_IDs": [
+            "NCT03435809"
+        ]
+    },
+    {
+        "PubMed_ID": 33712086,
+        "NCT_IDs": [
+            "NCT04046081"
+        ]
+    },
+    {
+        "PubMed_ID": 33564263,
+        "NCT_IDs": [
+            "NCT01620528",
+            "NCT01931670"
+        ]
+    },
+    {
+        "PubMed_ID": 33549312,
+        "NCT_IDs": [
+            "NCT02648698"
+        ]
+    },
+    {
+        "PubMed_ID": 33413677,
+        "NCT_IDs": [
+            "NCT04081532"
+        ]
+    },
+    {
+        "PubMed_ID": 33326662,
+        "NCT_IDs": [
+            "NCT01553201"
+        ]
+    },
+    {
+        "PubMed_ID": 33278297,
+        "NCT_IDs": [
+            "NCT02911090"
+        ]
+    },
+    {
+        "PubMed_ID": 33108543,
+        "NCT_IDs": [
+            "NCT01620528"
+        ]
+    },
+    {
+        "PubMed_ID": 33066973,
+        "NCT_IDs": [
+            "NCT01620528",
+            "NCT01931670"
+        ]
+    },
+    {
+        "PubMed_ID": 32995832,
+        "NCT_IDs": [
+            "NCT03665103"
+        ]
+    },
+    {
+        "PubMed_ID": 32912633,
+        "NCT_IDs": [
+            "NCT01458301"
+        ]
+    },
+    {
+        "PubMed_ID": 32769633,
+        "NCT_IDs": [
+            "NCT01620528",
+            "NCT01931670"
+        ]
+    },
+    {
+        "PubMed_ID": 32646588,
+        "NCT_IDs": [
+            "NCT03080558"
+        ]
+    },
+    {
+        "PubMed_ID": 32527167,
+        "NCT_IDs": [
+            "NCT03826355"
+        ]
+    },
+    {
+        "PubMed_ID": 32505383,
+        "NCT_IDs": [
+            "NCT02778399"
+        ]
+    },
+    {
+        "PubMed_ID": 32453393,
+        "NCT_IDs": [
+            "NCT02387931"
+        ]
+    },
+    {
+        "PubMed_ID": 32301063,
+        "NCT_IDs": [
+            "NCT01266421"
+        ]
+    },
+    {
+        "PubMed_ID": 32290838,
+        "NCT_IDs": [
+            "NCT00735852"
+        ]
+    },
+    {
+        "PubMed_ID": 32147182,
+        "NCT_IDs": [
+            "NCT01269125"
+        ]
+    },
+    {
+        "PubMed_ID": 31997236,
+        "NCT_IDs": [
+            "NCT02676713"
+        ]
+    },
+    {
+        "PubMed_ID": 31943126,
+        "NCT_IDs": [
+            "NCT03850158"
+        ]
+    },
+    {
+        "PubMed_ID": 31820806,
+        "NCT_IDs": [
+            "NCT01291576"
+        ]
+    },
+    {
+        "PubMed_ID": 31654294,
+        "NCT_IDs": [
+            "NCT01620528",
+            "NCT01931670"
+        ]
+    },
+    {
+        "PubMed_ID": 31325962,
+        "NCT_IDs": [
+            "NCT02947724"
+        ]
+    },
+    {
+        "PubMed_ID": 31289238,
+        "NCT_IDs": [
+            "NCT01553201"
+        ]
+    },
+    {
+        "PubMed_ID": 31227284,
+        "NCT_IDs": [
+            "NCT01620528",
+            "NCT01931670"
+        ]
+    },
+    {
+        "PubMed_ID": 31096979,
+        "NCT_IDs": [
+            "NCT02425462"
+        ]
+    },
+    {
+        "PubMed_ID": 31067329,
+        "NCT_IDs": [
+            "NCT01767090"
+        ]
+    },
+    {
+        "PubMed_ID": 30895244,
+        "NCT_IDs": [
+            "NCT03006523"
+        ]
+    },
+    {
+        "PubMed_ID": 30782670,
+        "NCT_IDs": [
+            "NCT02511626"
+        ]
+    },
+    {
+        "PubMed_ID": 30577792,
+        "NCT_IDs": [
+            "NCT01351051"
+        ]
+    },
+    {
+        "PubMed_ID": 30572916,
+        "NCT_IDs": [
+            "NCT03006406"
+        ]
+    },
+    {
+        "PubMed_ID": 30396557,
+        "NCT_IDs": [
+            "NCT02480647"
+        ]
+    },
+    {
+        "PubMed_ID": 30299482,
+        "NCT_IDs": [
+            "NCT03227640"
+        ]
+    },
+    {
+        "PubMed_ID": 29947766,
+        "NCT_IDs": [
+            "NCT02511626"
+        ]
+    },
+    {
+        "PubMed_ID": 29947745,
+        "NCT_IDs": [
+            "NCT02511626"
+        ]
+    },
+    {
+        "PubMed_ID": 29935810,
+        "NCT_IDs": [
+            "NCT02438735"
+        ]
+    },
+    {
+        "PubMed_ID": 29889764,
+        "NCT_IDs": [
+            "NCT01760954",
+            "NCT02143713"
+        ]
+    },
+    {
+        "PubMed_ID": 29885885,
+        "NCT_IDs": [
+            "NCT03080558"
+        ]
+    },
+    {
+        "PubMed_ID": 29884234,
+        "NCT_IDs": [
+            "NCT01643122"
+        ]
+    },
+    {
+        "PubMed_ID": 29880009,
+        "NCT_IDs": [
+            "NCT03125304"
+        ]
+    },
+    {
+        "PubMed_ID": 29537325,
+        "NCT_IDs": [
+            "NCT03124524"
+        ]
+    },
+    {
+        "PubMed_ID": 29476499,
+        "NCT_IDs": [
+            "NCT01403038",
+            "NCT01620528",
+            "NCT01760954",
+            "NCT01931670",
+            "NCT02143713"
+        ]
+    },
+    {
+        "PubMed_ID": 29079275,
+        "NCT_IDs": [
+            "NCT02511626"
+        ]
+    },
+    {
+        "PubMed_ID": 28911925,
+        "NCT_IDs": [
+            "NCT01697111"
+        ]
+    },
+    {
+        "PubMed_ID": 28844356,
+        "NCT_IDs": [
+            "NCT01329796"
+        ]
+    },
+    {
+        "PubMed_ID": 28525302,
+        "NCT_IDs": [
+            "NCT01620528",
+            "NCT01931670"
+        ]
+    },
+    {
+        "PubMed_ID": 28238489,
+        "NCT_IDs": [
+            "NCT01556204"
+        ]
+    },
+    {
+        "PubMed_ID": 28187404,
+        "NCT_IDs": [
+            "NCT02427386"
+        ]
+    },
+    {
+        "PubMed_ID": 27741200,
+        "NCT_IDs": [
+            "NCT01321840"
+        ]
+    },
+    {
+        "PubMed_ID": 27473545,
+        "NCT_IDs": [
+            "NCT02427386"
+        ]
+    },
+    {
+        "PubMed_ID": 27370359,
+        "NCT_IDs": [
+            "NCT01682642"
+        ]
+    },
+    {
+        "PubMed_ID": 27342743,
+        "NCT_IDs": [
+            "NCT01351051"
+        ]
+    },
+    {
+        "PubMed_ID": 26953733,
+        "NCT_IDs": [
+            "NCT01028365"
+        ]
+    },
+    {
+        "PubMed_ID": 26474734,
+        "NCT_IDs": [
+            "NCT02294825",
+            "NCT02294825"
+        ]
+    },
+    {
+        "PubMed_ID": 26456229,
+        "NCT_IDs": [
+            "NCT01762098"
+        ]
+    },
+    {
+        "PubMed_ID": 26181088,
+        "NCT_IDs": [
+            "NCT00474851"
+        ]
+    },
+    {
+        "PubMed_ID": 25788569,
+        "NCT_IDs": [
+            "NCT01569945"
+        ]
+    },
+    {
+        "PubMed_ID": 25730237,
+        "NCT_IDs": [
+            "NCT00073801"
+        ]
+    },
+    {
+        "PubMed_ID": 25681854,
+        "NCT_IDs": [
+            "NCT02047838"
+        ]
+    },
+    {
+        "PubMed_ID": 25392649,
+        "NCT_IDs": [
+            "NCT01596985"
+        ]
+    },
+    {
+        "PubMed_ID": 25256566,
+        "NCT_IDs": [
+            "NCT01139268"
+        ]
+    },
+    {
+        "PubMed_ID": 24903202,
+        "NCT_IDs": [
+            "NCT00778999"
+        ]
+    },
+    {
+        "PubMed_ID": 24326155,
+        "NCT_IDs": [
+            "NCT01344486"
+        ]
+    },
+    {
+        "PubMed_ID": 23900207,
+        "NCT_IDs": [
+            "NCT01139268"
+        ]
+    },
+    {
+        "PubMed_ID": 23579578,
+        "NCT_IDs": [
+            "NCT00463398"
+        ]
+    },
+    {
+        "PubMed_ID": 23545834,
+        "NCT_IDs": [
+            "NCT00795041"
+        ]
+    },
+    {
+        "PubMed_ID": 23245683,
+        "NCT_IDs": [
+            "NCT01139268"
+        ]
+    },
+    {
+        "PubMed_ID": 22232129,
+        "NCT_IDs": [
+            "NCT01329796"
+        ]
+    },
+    {
+        "PubMed_ID": 22181973,
+        "NCT_IDs": [
+            "NCT01334762"
+        ]
+    },
+    {
+        "PubMed_ID": 21775836,
+        "NCT_IDs": [
+            "NCT00001848"
+        ]
+    },
+    {
+        "PubMed_ID": 21145540,
+        "NCT_IDs": [
+            "NCT00001848"
+        ]
+    },
+    {
+        "PubMed_ID": 18556683,
+        "NCT_IDs": [
+            "NCT00604864"
+        ]
+    },
+    {
+        "PubMed_ID": 18165396,
+        "NCT_IDs": [
+            "NCT00001848"
+        ]
+    },
+    {
+        "PubMed_ID": 39879593,
+        "NCT_IDs": [
+            "NCT02754765"
+        ]
+    },
+    {
+        "PubMed_ID": 39609025,
+        "NCT_IDs": [
+            "NCT05175794"
+        ]
+    },
+    {
+        "PubMed_ID": 39515347,
+        "NCT_IDs": [
+            "NCT03931473"
+        ]
+    },
+    {
+        "PubMed_ID": 39381003,
+        "NCT_IDs": [
+            "NCT02465216"
+        ]
+    },
+    {
+        "PubMed_ID": 39016594,
+        "NCT_IDs": [
+            "NCT02279875"
+        ]
+    },
+    {
+        "PubMed_ID": 38842323,
+        "NCT_IDs": [
+            "NCT02589782"
+        ]
+    },
+    {
+        "PubMed_ID": 38768617,
+        "NCT_IDs": [
+            "NCT03338621"
+        ]
+    },
+    {
+        "PubMed_ID": 38561815,
+        "NCT_IDs": [
+            "NCT05306223",
+            "NCT05306223",
+            "NCT05306223"
+        ]
+    },
+    {
+        "PubMed_ID": 38462751,
+        "NCT_IDs": [
+            "NCT02409290"
+        ]
+    },
+    {
+        "PubMed_ID": 38421881,
+        "NCT_IDs": [
+            "NCT03215693"
+        ]
+    },
+    {
+        "PubMed_ID": 38295954,
+        "NCT_IDs": [
+            "NCT05257512"
+        ]
+    },
+    {
+        "PubMed_ID": 38243296,
+        "NCT_IDs": [
+            "NCT05221502"
+        ]
+    },
+    {
+        "PubMed_ID": 38037119,
+        "NCT_IDs": [
+            "NCT03896685"
+        ]
+    },
+    {
+        "PubMed_ID": 38037105,
+        "NCT_IDs": [
+            "NCT05633056"
+        ]
+    },
+    {
+        "PubMed_ID": 37980911,
+        "NCT_IDs": [
+            "NCT02589782"
+        ]
+    },
+    {
+        "PubMed_ID": 37451297,
+        "NCT_IDs": [
+            "NCT04150068"
+        ]
+    },
+    {
+        "PubMed_ID": 37370174,
+        "NCT_IDs": [
+            "NCT04575519"
+        ]
+    },
+    {
+        "PubMed_ID": 37280643,
+        "NCT_IDs": [
+            "NCT04550832"
+        ]
+    },
+    {
+        "PubMed_ID": 37249422,
+        "NCT_IDs": [
+            "NCT03867136",
+            "NCT04717908"
+        ]
+    },
+    {
+        "PubMed_ID": 36808186,
+        "NCT_IDs": [
+            "NCT03474198"
+        ]
+    },
+    {
+        "PubMed_ID": 36804834,
+        "NCT_IDs": [
+            "NCT02333799",
+            "NCT02333799"
+        ]
+    },
+    {
+        "PubMed_ID": 36785526,
+        "NCT_IDs": [
+            "NCT02424461"
+        ]
+    },
+    {
+        "PubMed_ID": 36546625,
+        "NCT_IDs": [
+            "NCT02589782"
+        ]
+    },
+    {
+        "PubMed_ID": 36522208,
+        "NCT_IDs": [
+            "NCT02619994"
+        ]
+    },
+    {
+        "PubMed_ID": 36209235,
+        "NCT_IDs": [
+            "NCT05017324"
+        ]
+    },
+    {
+        "PubMed_ID": 36053506,
+        "NCT_IDs": [
+            "NCT03086486"
+        ]
+    },
+    {
+        "PubMed_ID": 36041016,
+        "NCT_IDs": [
+            "NCT02410772"
+        ]
+    },
+    {
+        "PubMed_ID": 36038181,
+        "NCT_IDs": [
+            "NCT05040126"
+        ]
+    },
+    {
+        "PubMed_ID": 35731948,
+        "NCT_IDs": [
+            "NCT03559582"
+        ]
+    },
+    {
+        "PubMed_ID": 35698158,
+        "NCT_IDs": [
+            "NCT02589782"
+        ]
+    },
+    {
+        "PubMed_ID": 35352097,
+        "NCT_IDs": [
+            "NCT03162107"
+        ]
+    },
+    {
+        "PubMed_ID": 35291004,
+        "NCT_IDs": [
+            "NCT02958709"
+        ]
+    },
+    {
+        "PubMed_ID": 35028659,
+        "NCT_IDs": [
+            "NCT02754765"
+        ]
+    },
+    {
+        "PubMed_ID": 34975844,
+        "NCT_IDs": [
+            "NCT03575299",
+            "NCT03575299"
+        ]
+    },
+    {
+        "PubMed_ID": 34802493,
+        "NCT_IDs": [
+            "NCT02354014"
+        ]
+    },
+    {
+        "PubMed_ID": 34604901,
+        "NCT_IDs": [
+            "NCT02333799"
+        ]
+    },
+    {
+        "PubMed_ID": 34563240,
+        "NCT_IDs": [
+            "NCT02754765"
+        ]
+    },
+    {
+        "PubMed_ID": 34489274,
+        "NCT_IDs": [
+            "NCT04081077"
+        ]
+    },
+    {
+        "PubMed_ID": 34489263,
+        "NCT_IDs": [
+            "NCT03942354"
+        ]
+    },
+    {
+        "PubMed_ID": 34147154,
+        "NCT_IDs": [
+            "NCT01872702"
+        ]
+    },
+    {
+        "PubMed_ID": 33951360,
+        "NCT_IDs": [
+            "NCT02410772"
+        ]
+    },
+    {
+        "PubMed_ID": 33596848,
+        "NCT_IDs": [
+            "NCT03867136"
+        ]
+    },
+    {
+        "PubMed_ID": 33587897,
+        "NCT_IDs": [
+            "NCT02583048"
+        ]
+    },
+    {
+        "PubMed_ID": 33306991,
+        "NCT_IDs": [
+            "NCT02465216"
+        ]
+    },
+    {
+        "PubMed_ID": 33039989,
+        "NCT_IDs": [
+            "NCT04207112"
+        ]
+    },
+    {
+        "PubMed_ID": 35544156,
+        "NCT_IDs": [
+            "NCT03303963"
+        ]
+    },
+    {
+        "PubMed_ID": 32217561,
+        "NCT_IDs": [
+            "NCT03545373"
+        ]
+    },
+    {
+        "PubMed_ID": 32130813,
+        "NCT_IDs": [
+            "NCT02333799"
+        ]
+    },
+    {
+        "PubMed_ID": 32007598,
+        "NCT_IDs": [
+            "NCT02973763",
+            "NCT03127449"
+        ]
+    },
+    {
+        "PubMed_ID": 31676905,
+        "NCT_IDs": [
+            "NCT02754765"
+        ]
+    },
+    {
+        "PubMed_ID": 31649017,
+        "NCT_IDs": [
+            "NCT00676754"
+        ]
+    },
+    {
+        "PubMed_ID": 31628085,
+        "NCT_IDs": [
+            "NCT03215693"
+        ]
+    },
+    {
+        "PubMed_ID": 30910891,
+        "NCT_IDs": [
+            "NCT01728363"
+        ]
+    },
+    {
+        "PubMed_ID": 30865791,
+        "NCT_IDs": [
+            "NCT02409290"
+        ]
+    },
+    {
+        "PubMed_ID": 30651149,
+        "NCT_IDs": [
+            "NCT02619994"
+        ]
+    },
+    {
+        "PubMed_ID": 30630778,
+        "NCT_IDs": [
+            "NCT01424670"
+        ]
+    },
+    {
+        "PubMed_ID": 30477961,
+        "NCT_IDs": [
+            "NCT01994460"
+        ]
+    },
+    {
+        "PubMed_ID": 30024924,
+        "NCT_IDs": [
+            "NCT00449644"
+        ]
+    },
+    {
+        "PubMed_ID": 29519716,
+        "NCT_IDs": [
+            "NCT02331823"
+        ]
+    },
+    {
+        "PubMed_ID": 29507938,
+        "NCT_IDs": [
+            "NCT00933790"
+        ]
+    },
+    {
+        "PubMed_ID": 29178937,
+        "NCT_IDs": [
+            "NCT01918397"
+        ]
+    },
+    {
+        "PubMed_ID": 28475735,
+        "NCT_IDs": [
+            "NCT02170441"
+        ]
+    },
+    {
+        "PubMed_ID": 28193240,
+        "NCT_IDs": [
+            "NCT01994460"
+        ]
+    },
+    {
+        "PubMed_ID": 27868466,
+        "NCT_IDs": [
+            "NCT01061593"
+        ]
+    },
+    {
+        "PubMed_ID": 27782821,
+        "NCT_IDs": [
+            "NCT02538952"
+        ]
+    },
+    {
+        "PubMed_ID": 26871879,
+        "NCT_IDs": [
+            "NCT01055145"
+        ]
+    },
+    {
+        "PubMed_ID": 26647431,
+        "NCT_IDs": [
+            "NCT00449644",
+            "NCT00910871"
+        ]
+    },
+    {
+        "PubMed_ID": 26399865,
+        "NCT_IDs": [
+            "NCT00918086"
+        ]
+    },
+    {
+        "PubMed_ID": 26093675,
+        "NCT_IDs": [
+            "NCT02082340"
+        ]
+    },
+    {
+        "PubMed_ID": 25915745,
+        "NCT_IDs": [
+            "NCT01363765"
+        ]
+    },
+    {
+        "PubMed_ID": 25795076,
+        "NCT_IDs": [
+            "NCT01498419"
+        ]
+    },
+    {
+        "PubMed_ID": 25490549,
+        "NCT_IDs": [
+            "NCT01363765"
+        ]
+    },
+    {
+        "PubMed_ID": 25377177,
+        "NCT_IDs": [
+            "NCT02170441"
+        ]
+    },
+    {
+        "PubMed_ID": 25140958,
+        "NCT_IDs": [
+            "NCT00449644"
+        ]
+    },
+    {
+        "PubMed_ID": 25114140,
+        "NCT_IDs": [
+            "NCT00828529",
+            "NCT00910806"
+        ]
+    },
+    {
+        "PubMed_ID": 24721980,
+        "NCT_IDs": [
+            "NCT01201941"
+        ]
+    },
+    {
+        "PubMed_ID": 24176144,
+        "NCT_IDs": [
+            "NCT01554384"
+        ]
+    },
+    {
+        "PubMed_ID": 23880306,
+        "NCT_IDs": [
+            "NCT01509508"
+        ]
+    },
+    {
+        "PubMed_ID": 23733473,
+        "NCT_IDs": [
+            "NCT01498419"
+        ]
+    },
+    {
+        "PubMed_ID": 23590389,
+        "NCT_IDs": [
+            "NCT01139489"
+        ]
+    },
+    {
+        "PubMed_ID": 23251327,
+        "NCT_IDs": [
+            "NCT00351702"
+        ]
+    },
+    {
+        "PubMed_ID": 23075177,
+        "NCT_IDs": [
+            "NCT00727844"
+        ]
+    },
+    {
+        "PubMed_ID": 22828481,
+        "NCT_IDs": [
+            "NCT01215851"
+        ]
+    },
+    {
+        "PubMed_ID": 22670901,
+        "NCT_IDs": [
+            "NCT00685360"
+        ]
+    },
+    {
+        "PubMed_ID": 22607233,
+        "NCT_IDs": [
+            "NCT00216385"
+        ]
+    },
+    {
+        "PubMed_ID": 21732833,
+        "NCT_IDs": [
+            "NCT00057122"
+        ]
+    },
+    {
+        "PubMed_ID": 19858174,
+        "NCT_IDs": [
+            "NCT00192556"
+        ]
+    },
+    {
+        "PubMed_ID": 19494215,
+        "NCT_IDs": [
+            "NCT00449644"
+        ]
+    },
+    {
+        "PubMed_ID": 19345831,
+        "NCT_IDs": [
+            "NCT00082173"
         ]
     }
 ]
